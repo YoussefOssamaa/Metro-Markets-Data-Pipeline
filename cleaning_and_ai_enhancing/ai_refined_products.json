@@ -1,0 +1,6329 @@
+[
+  {
+    "product_id": "25804",
+    "name": "Juhayna Full Cream Milk - 1Kg",
+    "brand": "Juhayna",
+    "category": "Dairy",
+    "product_type": "Milk",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 52.75,
+      "discount_percentage": 14.7,
+      "current_price": 44.99
+    },
+    "availability": "in_stock",
+    "description": "Juhayna Full Cream Milk",
+    "tags": [
+      "milk",
+      "cream",
+      "juhayna"
+    ]
+  },
+  {
+    "product_id": "11760",
+    "name": "Crystal Glass Cleaner Spray 700+Refil S.O",
+    "brand": "Crystal",
+    "category": "Household",
+    "product_type": "Cleaning Supplies",
+    "size": {
+      "value": 700,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 79.95,
+      "discount_percentage": 16.3,
+      "current_price": 66.95
+    },
+    "availability": "in_stock",
+    "description": "Crystal Glass Cleaner Spray",
+    "tags": [
+      "cleaning",
+      "glass",
+      "crystal"
+    ]
+  },
+  {
+    "product_id": "20039",
+    "name": "Camay Soap Bar - 165g*4Pc",
+    "brand": "Camay",
+    "category": "Bath",
+    "product_type": "Soap Bars",
+    "size": {
+      "value": 660,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 104.95,
+      "discount_percentage": 9.5,
+      "current_price": 94.95
+    },
+    "availability": "in_stock",
+    "description": "Camay Soap Bar",
+    "tags": [
+      "soap",
+      "camay"
+    ]
+  },
+  {
+    "product_id": "20090",
+    "name": "Lux Soap Bar Creamy Perfection - 165*4Pc",
+    "brand": "Lux",
+    "category": "Bath",
+    "product_type": "Soap Bars",
+    "size": {
+      "value": 660,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 114.95,
+      "discount_percentage": 13.0,
+      "current_price": 99.95
+    },
+    "availability": "in_stock",
+    "description": "Lux Soap Bar",
+    "tags": [
+      "soap",
+      "lux"
+    ]
+  },
+  {
+    "product_id": "43172",
+    "name": "Lifebuoy Soap Bar 75g*4Pc",
+    "brand": "Lifebuoy",
+    "category": "Bath",
+    "product_type": "Soap Bars",
+    "size": {
+      "value": 300,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 62.95,
+      "discount_percentage": 12.7,
+      "current_price": 54.95
+    },
+    "availability": "in_stock",
+    "description": "Lifebuoy Soap Bar",
+    "tags": [
+      "soap",
+      "lifebuoy"
+    ]
+  },
+  {
+    "product_id": "30097",
+    "name": "Fairy Adw Plat-Plus Yellow - 20ct",
+    "brand": "Fairy",
+    "category": "Household",
+    "product_type": "Dish Soap",
+    "size": {
+      "value": 20,
+      "unit": "ct"
+    },
+    "price": {
+      "original_price": 289.95,
+      "discount_percentage": 17.2,
+      "current_price": 239.95
+    },
+    "availability": "in_stock",
+    "description": "Fairy Adw Plat-Plus",
+    "tags": [
+      "dish soap",
+      "fairy"
+    ]
+  },
+  {
+    "product_id": "23",
+    "name": "Imported Banana - 1Kg",
+    "brand": "Imported",
+    "category": "Fruit & Vegetables",
+    "product_type": "Bananas",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 124.99,
+      "discount_percentage": 12.0,
+      "current_price": 109.99
+    },
+    "availability": "in_stock",
+    "description": "Imported Bananas",
+    "tags": [
+      "banana",
+      "imported"
+    ]
+  },
+  {
+    "product_id": "147",
+    "name": "Orange Balady Network- 2Kg",
+    "brand": "Orange",
+    "category": "Fruit & Vegetables",
+    "product_type": "Oranges",
+    "size": {
+      "value": 2000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 54.99,
+      "discount_percentage": 36.4,
+      "current_price": 34.99
+    },
+    "availability": "in_stock",
+    "description": "Orange Balady Network",
+    "tags": [
+      "orange",
+      "balady"
+    ]
+  },
+  {
+    "product_id": "673",
+    "name": "Iceberg Lettuce 1Pc",
+    "brand": "Prepacked",
+    "category": "Fruit & Vegetables",
+    "product_type": "Lettuce",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 24.99,
+      "discount_percentage": 20.0,
+      "current_price": 19.99
+    },
+    "availability": "in_stock",
+    "description": "Iceberg Lettuce",
+    "tags": [
+      "lettuce",
+      "prepacked"
+    ]
+  },
+  {
+    "product_id": "1876",
+    "name": "SeaStar Smoked Herring Fish Fillets-250g",
+    "brand": "Sea Star",
+    "category": "Seafood",
+    "product_type": "Fish Fillets",
+    "size": {
+      "value": 250,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 154.99,
+      "discount_percentage": 19.4,
+      "current_price": 124.99
+    },
+    "availability": "in_stock",
+    "description": "SeaStar Smoked Herring Fish Fillets",
+    "tags": [
+      "fish",
+      "sea star"
+    ]
+  },
+  {
+    "product_id": "2058",
+    "name": "Sea Star Mackerel Fillets - 250g",
+    "brand": "Sea Star",
+    "category": "Seafood",
+    "product_type": "Fish Fillets",
+    "size": {
+      "value": 250,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 199.99,
+      "discount_percentage": 20.0,
+      "current_price": 159.99
+    },
+    "availability": "in_stock",
+    "description": "Sea Star Mackerel Fillets",
+    "tags": [
+      "fish",
+      "sea star"
+    ]
+  },
+  {
+    "product_id": "2060",
+    "name": "SeaStar Smo.Herring Fish Fillets - 500g",
+    "brand": "Sea Star",
+    "category": "Seafood",
+    "product_type": "Fish Fillets",
+    "size": {
+      "value": 500,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 274.99,
+      "discount_percentage": 20.0,
+      "current_price": 219.99
+    },
+    "availability": "in_stock",
+    "description": "SeaStar Smoked Herring Fish Fillets",
+    "tags": [
+      "fish",
+      "sea star"
+    ]
+  },
+  {
+    "product_id": "2061",
+    "name": "SeaStar Smoked Herring Fish Fillets 380g",
+    "brand": "Sea Star",
+    "category": "Seafood",
+    "product_type": "Fish Fillets",
+    "size": {
+      "value": 380,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 194.99,
+      "discount_percentage": 19.0,
+      "current_price": 157.99
+    },
+    "availability": "in_stock",
+    "description": "SeaStar Smoked Herring Fish Fillets",
+    "tags": [
+      "fish",
+      "sea star"
+    ]
+  },
+  {
+    "product_id": "2111",
+    "name": "Labanita Natural Yougurt -105g 6Pc",
+    "brand": "Labanita",
+    "category": "Dairy",
+    "product_type": "Yogurt",
+    "size": {
+      "value": 630,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 50.99,
+      "discount_percentage": 21.6,
+      "current_price": 39.99
+    },
+    "availability": "in_stock",
+    "description": "Labanita Natural Yougurt",
+    "tags": [
+      "yogurt",
+      "labanita"
+    ]
+  },
+  {
+    "product_id": "2831",
+    "name": "Kiri Creamy Labneh- 1Kg",
+    "brand": "Dinar",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 244.75,
+      "discount_percentage": 42.8,
+      "current_price": 140.0
+    },
+    "availability": "in_stock",
+    "description": "Kiri Creamy Labneh",
+    "tags": [
+      "cheese",
+      "labneh"
+    ]
+  },
+  {
+    "product_id": "2832",
+    "name": "Kiri Creamy Labneh Edam - 1Kg",
+    "brand": "Labaneh",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 244.75,
+      "discount_percentage": 42.8,
+      "current_price": 140.0
+    },
+    "availability": "in_stock",
+    "description": "Kiri Creamy Labneh Edam",
+    "tags": [
+      "cheese",
+      "labneh"
+    ]
+  },
+  {
+    "product_id": "2833",
+    "name": "Kiri Creamy Labneh Romy - 1Kg",
+    "brand": "Dinar",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 244.75,
+      "discount_percentage": 42.8,
+      "current_price": 140.0
+    },
+    "availability": "in_stock",
+    "description": "Kiri Creamy Labneh Romy",
+    "tags": [
+      "cheese",
+      "labneh"
+    ]
+  },
+  {
+    "product_id": "2834",
+    "name": "Kirr Creamy Labneh Danish - 1Kg",
+    "brand": "Dinar",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 244.75,
+      "discount_percentage": 42.8,
+      "current_price": 140.0
+    },
+    "availability": "in_stock",
+    "description": "Kirr Creamy Labneh Danish",
+    "tags": [
+      "cheese",
+      "labneh"
+    ]
+  },
+  {
+    "product_id": "2835",
+    "name": "Kiri Creamy Labneh Chili- 1Kg",
+    "brand": "Dinar",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 244.75,
+      "discount_percentage": 42.8,
+      "current_price": 140.0
+    },
+    "availability": "in_stock",
+    "description": "Kiri Creamy Labneh Chili",
+    "tags": [
+      "cheese",
+      "labneh"
+    ]
+  },
+  {
+    "product_id": "2836",
+    "name": "Kiri Natural Cheese With Pastrami - 1Kg",
+    "brand": "Labaneh",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 244.75,
+      "discount_percentage": 42.8,
+      "current_price": 140.0
+    },
+    "availability": "in_stock",
+    "description": "Kiri Natural Cheese With Pastrami",
+    "tags": [
+      "cheese",
+      "pastrami"
+    ]
+  },
+  {
+    "product_id": "2895",
+    "name": "Feta Cheese - 1Kg",
+    "brand": "Fessita",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 223.75,
+      "discount_percentage": 46.4,
+      "current_price": 120.0
+    },
+    "availability": "in_stock",
+    "description": "Feta Cheese - 1Kg",
+    "tags": [
+      "Feta",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "2914",
+    "name": "Old Romy Cheese - 1Kg",
+    "brand": "Old Rumy",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 335.99,
+      "discount_percentage": 10.7,
+      "current_price": 300.0
+    },
+    "availability": "in_stock",
+    "description": "Old Romy Cheese - 1Kg",
+    "tags": [
+      "Old Romy",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "2916",
+    "name": "Baramily Cheese - 1Kg",
+    "brand": "Baramily",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 199.5,
+      "discount_percentage": 14.8,
+      "current_price": 170.0
+    },
+    "availability": "in_stock",
+    "description": "Enjoy the irresistible buttery flavor and creamy texture of the Baramily Cheese.",
+    "tags": [
+      "Baramily",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "2930",
+    "name": "Istanbolly Cheese - 1Kg",
+    "brand": "Istanbul",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 199.5,
+      "discount_percentage": 14.8,
+      "current_price": 170.0
+    },
+    "availability": "in_stock",
+    "description": "The Istanbul Cheese is a flavorsome indulgence for you and your family to enjoy.",
+    "tags": [
+      "Istanbul",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "2934",
+    "name": "Cottage Cheese - 1Kg",
+    "brand": "Cottage",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 162.75,
+      "discount_percentage": 26.3,
+      "current_price": 120.0
+    },
+    "availability": "in_stock",
+    "description": "The Cottage Cheese makes an excellent addition to a variety of food preparation.",
+    "tags": [
+      "Cottage",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "2938",
+    "name": "Alexandria Baramily CheeseWith Pepper1Kg",
+    "brand": "Alex",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 199.5,
+      "discount_percentage": 14.8,
+      "current_price": 170.0
+    },
+    "availability": "in_stock",
+    "description": "The Alex Baramily Cheese with Pepper gives a savory twist to the creamy and soft cheese.",
+    "tags": [
+      "Alex",
+      "Baramily",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "2955",
+    "name": "Halwani Plain Halawa - 1Kg",
+    "brand": "Halwani",
+    "category": "Sweets",
+    "product_type": "Halawa",
+    "price": {
+      "original_price": 179.99,
+      "discount_percentage": 19.4,
+      "current_price": 144.99
+    },
+    "availability": "in_stock",
+    "description": "Add a blend of sweet and salty delight to your palette with the Halwani Plain Halawa.",
+    "tags": [
+      "Halwani",
+      "Halawa",
+      "Sweets"
+    ]
+  },
+  {
+    "product_id": "2995",
+    "name": "Sea Star Smoked Herring Fillet - 1kg",
+    "brand": "Sea Star",
+    "category": "Meat",
+    "product_type": "Herring Fillet",
+    "price": {
+      "original_price": 269.99,
+      "discount_percentage": 18.5,
+      "current_price": 219.99
+    },
+    "availability": "in_stock",
+    "description": "For all those enthusiastic about seafood, the Seastar Smoked Herring makes for an incredibly delicious treat.",
+    "tags": [
+      "Sea Star",
+      "Herring Fillet",
+      "Meat"
+    ]
+  },
+  {
+    "product_id": "3120",
+    "name": "Seastar Whole Feseikh - 1kg",
+    "brand": "Seastar",
+    "category": "Meat",
+    "product_type": "Feseikh",
+    "price": {
+      "original_price": 724.99,
+      "discount_percentage": 18.6,
+      "current_price": 589.99
+    },
+    "availability": "in_stock",
+    "description": "Indulge in the deliciousness of the Seastar Whole Feseikh that is both savory and healthy.",
+    "tags": [
+      "Seastar",
+      "Feseikh",
+      "Meat"
+    ]
+  },
+  {
+    "product_id": "3211",
+    "name": "Katilo Baramily Alexandrian Cheese 1Kg",
+    "brand": "Katilo",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 224.99,
+      "discount_percentage": 33.3,
+      "current_price": 150.0
+    },
+    "availability": "in_stock",
+    "description": "The Katilo Baramily Cheese levels up the taste of your homemade pasta by bestowing a savory, creamy flavor to it.",
+    "tags": [
+      "Katilo",
+      "Baramily",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "3212",
+    "name": "Katilo Istanbolly Storage Cheese - 1Kg",
+    "brand": "Katilo",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 224.99,
+      "discount_percentage": 33.3,
+      "current_price": 150.0
+    },
+    "availability": "in_stock",
+    "description": "Improve your homemade pasta preparation by adding the Katilo Istambolli Cheese to it.",
+    "tags": [
+      "Katilo",
+      "Istanbolly",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "3214",
+    "name": "Katilo Romy Cheese - 1Kg",
+    "brand": "Old Rumy",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "price": {
+      "original_price": 549.99,
+      "discount_percentage": 18.2,
+      "current_price": 450.0
+    },
+    "availability": "in_stock",
+    "description": "The Katilo Roomy Cheese enhances your homemade curry by bestowing a savory, creamy flavor to it.",
+    "tags": [
+      "Katilo",
+      "Romy",
+      "Cheese",
+      "Dairy"
+    ]
+  },
+  {
+    "product_id": "3248",
+    "name": "Super Bolty Fish - 1Kg",
+    "brand": "Whole/Processed/Fill",
+    "category": "Seafood",
+    "product_type": "Fish",
+    "price": {
+      "original_price": 109.99,
+      "discount_percentage": 9.1,
+      "current_price": 99.99
+    },
+    "availability": "in_stock",
+    "description": "The Super Bolty Fish presents a delightful accompaniment to the otherwise mundane meals.",
+    "tags": [
+      "Super Bolty",
+      "Fish",
+      "Seafood"
+    ]
+  },
+  {
+    "product_id": "3261",
+    "name": "Qarous Fish - 1Kg",
+    "brand": "Whole/Processed/Fill",
+    "category": "Seafood",
+    "product_type": "Fish",
+    "price": {
+      "original_price": 629.99,
+      "discount_percentage": 4.8,
+      "current_price": 599.99
+    },
+    "availability": "in_stock",
+    "description": "With Qarous Fish, let your guests lick their fingers as you prepare appetizing delectable.",
+    "tags": [
+      "Qarous",
+      "Fish",
+      "Seafood"
+    ]
+  },
+  {
+    "product_id": "3265",
+    "name": "Loot Fish - 1Kg",
+    "brand": "Whole/Processed/Fill",
+    "category": "Seafood",
+    "product_type": "Fish",
+    "price": {
+      "original_price": 289.99,
+      "discount_percentage": 13.8,
+      "current_price": 249.99
+    },
+    "availability": "in_stock",
+    "description": "Loot Fish - 1Kg",
+    "tags": [
+      "Loot",
+      "Fish",
+      "Seafood"
+    ]
+  },
+  {
+    "product_id": "3271",
+    "name": "Clams Gandofly - 1Kg",
+    "brand": "Whole/Processed",
+    "category": "Seafood",
+    "product_type": "Clams",
+    "price": {
+      "original_price": 129.99,
+      "discount_percentage": 15.4,
+      "current_price": 109.99
+    },
+    "availability": "in_stock",
+    "description": "Prepare the mouth-watering delectable with Clams Gandofly.",
+    "tags": [
+      "Clams Gandofly",
+      "Clams",
+      "Seafood"
+    ]
+  },
+  {
+    "product_id": "3502",
+    "name": "California Garden Plain Medammes 400g",
+    "brand": "California Garden",
+    "category": "Vegetables",
+    "product_type": "Medammes",
+    "price": {
+      "original_price": 26.99,
+      "discount_percentage": 25.9,
+      "current_price": 19.99
+    },
+    "availability": "in_stock",
+    "description": "Kick-start your day by eating the healthiest and delicious breakfast with the California Garden Medammes.",
+    "tags": [
+      "California Garden",
+      "Medammes",
+      "Vegetables"
+    ]
+  },
+  {
+    "product_id": "3663",
+    "name": "California Garden Sweet Corn Seeds 330g",
+    "brand": "Calfornia",
+    "category": "Vegetables",
+    "product_type": "Sweet Corn Seeds",
+    "price": {
+      "original_price": 59.99,
+      "discount_percentage": 16.7,
+      "current_price": 49.99
+    },
+    "availability": "in_stock",
+    "description": "The California Garden Kernel Sweet Corn helps you give a refreshing twist to your food.",
+    "tags": [
+      "California",
+      "Sweet Corn Seeds",
+      "Vegetables"
+    ]
+  },
+  {
+    "product_id": "3727",
+    "name": "Metro Chick Peas 400g",
+    "brand": "Metro Private",
+    "category": "Legumes",
+    "product_type": "Chick Peas",
+    "price": {
+      "original_price": 34.75,
+      "discount_percentage": 28.1,
+      "current_price": 24.99
+    },
+    "availability": "in_stock",
+    "description": "Metro Chick Peas 400g",
+    "tags": [
+      "Metro Chick Peas",
+      "Chick Peas",
+      "Legumes"
+    ]
+  },
+  {
+    "product_id": "4408",
+    "name": "Regina Spaghetti Pasta 1.6mm - 400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Spaghetti",
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "The Regina Pasta 1.6mm Spaghetti serves as a promising candidate for trying out various pasta cuisines.",
+    "tags": [
+      "Regina",
+      "Spaghetti",
+      "Pasta"
+    ]
+  },
+  {
+    "product_id": "4409",
+    "name": "Regina Small Rings Pasta 6mm - 400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Ring",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "The Regina Pasta Small Rings serve as a promising candidate for trying out various pasta cuisines. Derived from 100% freshly extracted durum wheat semolina, the pasta rings are authentic in flavor and color. These fine-quality pasta pieces are easy to simmer and have a consistent texture that results in them being uniformly cooked.",
+    "tags": [
+      "pasta",
+      "ring",
+      "regina"
+    ]
+  },
+  {
+    "product_id": "4410",
+    "name": "Regina Vermicelli No.10 Pasta400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Vermicelli",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "Give that online recipe a try with the promising Regina Pasta Vermicelli. Derived from 100% freshly extracted durum wheat semolina, the pasta vermicelli is authentic in flavor and color. These fine-quality pasta pieces are easy to simmer and have a consistent texture that results in them being uniformly cooked.",
+    "tags": [
+      "pasta",
+      "vermicelli",
+      "regina"
+    ]
+  },
+  {
+    "product_id": "4411",
+    "name": "Regina Penne Pasta - 400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Penne",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "Experiment on different online recipes with the appetizing Regina Pasta Penne. Derived from 100% freshly extracted durum wheat semolina, the pasta penne is authentic in flavor and color. These fine-quality pasta pieces are easy to simmer and have a consistent texture that results in them being uniformly cooked.",
+    "tags": [
+      "pasta",
+      "penne",
+      "regina"
+    ]
+  },
+  {
+    "product_id": "4413",
+    "name": "Regina Big Rings Pasta - 400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Ring",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "The Regina Pasta Big Rings serve as a promising candidate for trying out various pasta cuisines. Derived from 100% freshly extracted durum wheat semolina, the pasta rings are authentic in flavor and color. These fine-quality pasta pieces are easy to simmer and have a consistent texture that results in them being uniformly cooked.",
+    "tags": [
+      "pasta",
+      "ring",
+      "regina"
+    ]
+  },
+  {
+    "product_id": "4416",
+    "name": "Regina Elbow Pasta - 400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Elbow",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "The Regina Pasta Elbow gives you a great start for preparing the most anticipated pasta recipe. Derived from 100% freshly extracted durum wheat semolina, the pasta is authentic in flavor and color. These fine-quality pasta pieces are easy to simmer and have a consistent texture that results in them being uniform cooked.",
+    "tags": [
+      "pasta",
+      "elbow",
+      "regina"
+    ]
+  },
+  {
+    "product_id": "4417",
+    "name": "Regina Shells Pasta - 400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Shells",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "Prepare delicious pasta dishes using the refined Regina Pasta Shells for enhancing their look and feel. Derived from 100% freshly extracted durum wheat semolina, the pasta rings are authentic in flavor and color. These fine-quality pasta pieces are easy to simmer and have a consistent texture that results in them being uniformly cooked.",
+    "tags": [
+      "pasta",
+      "shells",
+      "regina"
+    ]
+  },
+  {
+    "product_id": "4418",
+    "name": "Regina Fusilli Pasta - 400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Fusilli",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "Give that online recipe a try with the promising Regina Pasta Fusilli. Derived from 100% freshly extracted durum wheat semolina, the pasta is authentic in flavor and color. These fine-quality pasta pieces are easy to simmer and have a consistent texture that results in them being uniformly cooked.",
+    "tags": [
+      "pasta",
+      "fusilli",
+      "regina"
+    ]
+  },
+  {
+    "product_id": "4448",
+    "name": "Al Doha Egyptian Rice - 5Kg",
+    "brand": "Al Doha",
+    "category": "Rice",
+    "product_type": null,
+    "size": {
+      "value": 5000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 204.99,
+      "discount_percentage": 8.3,
+      "current_price": 187.99
+    },
+    "availability": "in_stock",
+    "description": "The Al Doha Egyptian Rice presents the finest quality, carefully picked grains that would not only beautify your rice-based cuisines but also makes them lip-smacking. Each grain has a polished texture with smooth contours so that it does not become sticky on being cooked. The grains are pre-washed without compromising on the taste, saving your time and energy.",
+    "tags": [
+      "rice",
+      "al doha"
+    ]
+  },
+  {
+    "product_id": "4452",
+    "name": "Indomie Chicken Noodles - 70g",
+    "brand": "Indomie",
+    "category": "Noodles",
+    "product_type": "Chicken",
+    "size": {
+      "value": 70,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 7.99,
+      "discount_percentage": 18.6,
+      "current_price": 6.5
+    },
+    "availability": "in_stock",
+    "description": "The Indomie Chicken Noodles are a great meal for your outings. The instant noodles require the least preparation time. They pack a great taste and keep you full for the longest.",
+    "tags": [
+      "noodles",
+      "chicken",
+      "indomie"
+    ]
+  },
+  {
+    "product_id": "4612",
+    "name": "Regina Rice Pasta - 400g",
+    "brand": "Regina",
+    "category": "Pasta",
+    "product_type": "Rice",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 18.1,
+      "current_price": 23.75
+    },
+    "availability": "in_stock",
+    "description": "The Regina Pasta Rice perfectly complements rice-based cuisines but reveals a hint of the pasta’s semolina essence. Derived from freshly extracted durum wheat semolina, the rice is authentic in flavor and color. These fine-quality grains are easy to boil and have a consistent texture that results in them being uniformly cooked.",
+    "tags": [
+      "pasta",
+      "rice",
+      "regina"
+    ]
+  },
+  {
+    "product_id": "4613",
+    "name": "Al Doha Egyptian White Rice - 1Kg",
+    "brand": "Al Doha",
+    "category": "Rice",
+    "product_type": null,
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 40.99,
+      "discount_percentage": 7.3,
+      "current_price": 37.99
+    },
+    "availability": "in_stock",
+    "description": "The Al Doha Egyptian White Rice presents the finest quality, carefully picked grains that would not only beautify your rice-based cuisines but also makes them lip-smacking. Each grain has a polished texture with smooth contours so that it does not become sticky on being cooked. The grains are pre-washed without compromising on the taste, saving your time and energy.",
+    "tags": [
+      "rice",
+      "al doha"
+    ]
+  },
+  {
+    "product_id": "4735",
+    "name": "Imtenan Cargo Brown Rice - 750g",
+    "brand": "Imtenan",
+    "category": "Rice",
+    "product_type": null,
+    "size": {
+      "value": 750,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 94.95,
+      "discount_percentage": 15.8,
+      "current_price": 79.99
+    },
+    "availability": "in_stock",
+    "description": "Give your meals the goodness of the Imtenan Cargo Brown Rice that helps you to keep obesity at bay. This fiber-rich rice promotes slow digestion to help maintain your glucose levels at normal. It prevents hunger between meals and keeps you full all day long. People with diabetes and cholesterol can benefit from it. It will keep your heart healthy too.",
+    "tags": [
+      "rice",
+      "imtenan"
+    ]
+  },
+  {
+    "product_id": "4762",
+    "name": "Indomie SuperMi Vegetable Flavour 70g",
+    "brand": "Indomie",
+    "category": "Noodles",
+    "product_type": "SuperMi",
+    "size": {
+      "value": 70,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 7.99,
+      "discount_percentage": 18.6,
+      "current_price": 6.5
+    },
+    "availability": "in_stock",
+    "description": "Savor into the delicious Indomie Vegetable Flavor Super Mi Noodles. It has a soft texture that perfectly melts into your mouth. It is an ideal snack when you are cramped up for time. The Vegetable flavor tantalizes your taste buds with its impeccable taste. It contains nutrients that help boost your overall immunity.",
+    "tags": [
+      "noodles",
+      "supermi",
+      "indomie"
+    ]
+  },
+  {
+    "product_id": "4798",
+    "name": "Indomie Beef Flavour Instant Noodles 70g",
+    "brand": "Indomie",
+    "category": "Noodles",
+    "product_type": "Beef",
+    "size": {
+      "value": 70,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 7.99,
+      "discount_percentage": 18.6,
+      "current_price": 6.5
+    },
+    "availability": "in_stock",
+    "description": "The Indomie Beef Flavor Instant Noodles are a great meal for your outings. The instant noodles require the least preparation time. They pack a great taste and keep you full for the longest.",
+    "tags": [
+      "noodles",
+      "beef",
+      "indomie"
+    ]
+  },
+  {
+    "product_id": "5229",
+    "name": "Nestle Fitness Honey & Almond 355g",
+    "brand": "Nestle",
+    "category": "Snacks",
+    "product_type": "Fitness",
+    "size": {
+      "value": 355,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 254.5,
+      "discount_percentage": 15.5,
+      "current_price": 214.99
+    },
+    "availability": "in_stock",
+    "description": "A perfect blend of taste and nutrition, the Nestle Honey & Almond Fitness Toasties make for an excellent snack. It is packed with nutrients that help to maintain your overall health and wellbeing. Flavored with honey and almonds, it adds a crunchy and sweet delight to your palette.",
+    "tags": [
+      "snacks",
+      "fitness",
+      "nestle"
+    ]
+  },
+  {
+    "product_id": "5485",
+    "name": "Nescafe Gold Instant Coffee - 190g",
+    "brand": "Nescafe",
+    "category": "Coffee",
+    "product_type": "Gold",
+    "size": {
+      "value": 190,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 488.99,
+      "discount_percentage": 10.1,
+      "current_price": 439.45
+    },
+    "availability": "in_stock",
+    "description": "Enjoy the rich taste and well-rounded taste of the Nescafe Gold Instant Coffee. It is made from 100% natural Arabica and Robusta coffee beans that offer an authentic coffee taste on every sip. Also, its freeze-dried technology seizes the acute coffee fragrance in every grain. This aromatic and delicious coffee makes every break a perfect one.",
+    "tags": [
+      "coffee",
+      "gold",
+      "nescafe"
+    ]
+  },
+  {
+    "product_id": "5551",
+    "name": "Coffee Mate Coffee Creamer - 400g",
+    "brand": "Nestle",
+    "category": "Coffee",
+    "product_type": null,
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 160.0,
+      "discount_percentage": 10.0,
+      "current_price": 144.0
+    },
+    "availability": "in_stock",
+    "description": "Start your day on a refreshing note with a hot cup of coffee using the Coffee Mate Coffee Creamer. It is sugar-free that makes it ideal for those seeking to avoid sweets. The strong and intense formulation offers an instant boost in energy.",
+    "tags": [
+      "coffee",
+      "coffee creamer",
+      "nestle"
+    ]
+  },
+  {
+    "product_id": "5573",
+    "name": "Royal Mint Green Tea 25Bags",
+    "brand": "Royal",
+    "category": "Tea",
+    "product_type": "Mint",
+    "size": {
+      "value": 25,
+      "unit": "bags"
+    },
+    "price": {
+      "original_price": 32.5,
+      "discount_percentage": 23.2,
+      "current_price": 24.95
+    },
+    "availability": "in_stock",
+    "description": "The Royal Green Tea with Mint instantly wakes you up with its soothing aroma and distinctive flavor. All the ingredients are carefully picked to deliver you with a premium quality product. This Royal tea is rich in antioxidants and boosts your immune system to keep you healthy and fit. The peppermint freshens your breath and also delivers a distinctive aroma and flavor to the tea, elevating its overall essence.",
+    "tags": [
+      "tea",
+      "mint",
+      "royal"
+    ]
+  },
+  {
+    "product_id": "5574",
+    "name": "Royal Green Tea - 25 Bags",
+    "brand": "Royal",
+    "category": "Tea",
+    "product_type": null,
+    "size": {
+      "value": 25,
+      "unit": "bags"
+    },
+    "price": {
+      "original_price": 32.5,
+      "discount_percentage": 23.2,
+      "current_price": 24.95
+    },
+    "availability": "in_stock",
+    "description": "The Royal Green Tea lets you get into that fitness regime with its metabolism-boosting properties. The ingredients are picked carefully to deliver you with a top-quality product. This Royal tea is rich in antioxidants and boosts your immune system to keep you healthy and fit. This green tea keeps your breath fresh and helps you improve digestion. It has a distinctive aroma and full-bodied flavor that elevates its overall essence.",
+    "tags": [
+      "tea",
+      "green tea",
+      "royal"
+    ]
+  },
+  {
+    "product_id": "5605",
+    "name": "Royal Hibiscus Herbs Tea - 50 Bags",
+    "brand": "Royal",
+    "category": "Tea",
+    "product_type": "Hibiscus",
+    "size": {
+      "value": 50,
+      "unit": "bags"
+    },
+    "price": {
+      "original_price": 66.0,
+      "discount_percentage": 20.8,
+      "current_price": 52.25
+    },
+    "availability": "in_stock",
+    "description": "Kick-start your mornings with a refreshing cup of Royal Hibiscus Herbs Tea. All the ingredients are carefully picked to deliver you with a premium quality product. This Royal tea is rich in antioxidants and boosts your immune system to keep you healthy and fit. The hibiscus promotes liver health and also delivers a distinctive aroma and flavor to the tea, elevating its overall essence.",
+    "tags": [
+      "tea",
+      "hibiscus",
+      "royal"
+    ]
+  },
+  {
+    "product_id": "5606",
+    "name": "Anise",
+    "brand": "Royal",
+    "category": "Spices",
+    "product_type": "Tea",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 66.0,
+      "discount_percentage": 20.8,
+      "current_price": null
+    },
+    "availability": "in_stock",
+    "description": "Anise - 50 Bags",
+    "tags": [
+      "Anise",
+      "Tea"
+    ]
+  },
+  {
+    "product_id": "5628",
+    "name": "Mint Tea",
+    "brand": "Royal",
+    "category": "Herbal",
+    "product_type": "Tea",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 29.5,
+      "discount_percentage": 13.6,
+      "current_price": null
+    },
+    "availability": "in_stock",
+    "description": "Mint Tea",
+    "tags": [
+      "Mint",
+      "Tea"
+    ]
+  },
+  {
+    "product_id": "6302",
+    "name": "Strawberry Jam",
+    "brand": "Hero",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 350,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 73.99,
+      "discount_percentage": 16.3,
+      "current_price": 61.95
+    },
+    "availability": "in_stock",
+    "description": "Strawberry Jam",
+    "tags": [
+      "Strawberry",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6303",
+    "name": "Apricot Jam",
+    "brand": "Hero",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 350,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 80.99,
+      "discount_percentage": 16.1,
+      "current_price": 67.99
+    },
+    "availability": "in_stock",
+    "description": "Apricot Jam",
+    "tags": [
+      "Apricot",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6305",
+    "name": "Orange Jam",
+    "brand": "Hero",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 350,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 73.99,
+      "discount_percentage": 16.3,
+      "current_price": 61.95
+    },
+    "availability": "in_stock",
+    "description": "Orange Jam",
+    "tags": [
+      "Orange",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6307",
+    "name": "Mixed Fruits Jam",
+    "brand": "Hero",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 350,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 73.99,
+      "discount_percentage": 16.3,
+      "current_price": 61.95
+    },
+    "availability": "in_stock",
+    "description": "Mixed Fruits Jam",
+    "tags": [
+      "Mixed Fruits",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6308",
+    "name": "Fig Jam",
+    "brand": "Hero",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 350,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 73.99,
+      "discount_percentage": 16.3,
+      "current_price": 61.95
+    },
+    "availability": "in_stock",
+    "description": "Fig Jam",
+    "tags": [
+      "Fig",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6348",
+    "name": "Strawberry Jam",
+    "brand": "El Rashid El-Mizan",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 700,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 69.25,
+      "discount_percentage": 20.6,
+      "current_price": 54.99
+    },
+    "availability": "in_stock",
+    "description": "Strawberry Jam",
+    "tags": [
+      "Strawberry",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6349",
+    "name": "Fig Jam",
+    "brand": "El Rashid El-Mizan",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 700,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 69.25,
+      "discount_percentage": 20.6,
+      "current_price": 54.99
+    },
+    "availability": "in_stock",
+    "description": "Fig Jam",
+    "tags": [
+      "Fig",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6350",
+    "name": "Apricot Jam",
+    "brand": "El Rashid El-Mizan",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 700,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 71.5,
+      "discount_percentage": 16.1,
+      "current_price": 59.99
+    },
+    "availability": "in_stock",
+    "description": "Apricot Jam",
+    "tags": [
+      "Apricot",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6380",
+    "name": "Strawberry Cream Jam",
+    "brand": "Vitrac",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 430,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 53.99,
+      "discount_percentage": 20.4,
+      "current_price": 42.99
+    },
+    "availability": "in_stock",
+    "description": "Strawberry Cream Jam",
+    "tags": [
+      "Strawberry",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6381",
+    "name": "Fig Cream Jam",
+    "brand": "Vitrac",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 430,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 53.99,
+      "discount_percentage": 20.4,
+      "current_price": 42.99
+    },
+    "availability": "in_stock",
+    "description": "Fig Cream Jam",
+    "tags": [
+      "Fig",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6382",
+    "name": "Apricot Cream Jam",
+    "brand": "Vitrac",
+    "category": "Fruits",
+    "product_type": "Jam",
+    "size": {
+      "value": 430,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 58.99,
+      "discount_percentage": 20.3,
+      "current_price": 46.99
+    },
+    "availability": "in_stock",
+    "description": "Apricot Cream Jam",
+    "tags": [
+      "Apricot",
+      "Jam"
+    ]
+  },
+  {
+    "product_id": "6513",
+    "name": "Clover Honey",
+    "brand": "Hero",
+    "category": "Beverages",
+    "product_type": "Honey",
+    "size": {
+      "value": 650,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 195.99,
+      "discount_percentage": 21.9,
+      "current_price": 152.99
+    },
+    "availability": "in_stock",
+    "description": "Clover Honey",
+    "tags": [
+      "Clover",
+      "Honey"
+    ]
+  },
+  {
+    "product_id": "6515",
+    "name": "Citrus Honey",
+    "brand": "Hero",
+    "category": "Beverages",
+    "product_type": "Honey",
+    "size": {
+      "value": 650,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 195.99,
+      "discount_percentage": 21.9,
+      "current_price": 152.99
+    },
+    "availability": "in_stock",
+    "description": "Citrus Honey",
+    "tags": [
+      "Citrus",
+      "Honey"
+    ]
+  },
+  {
+    "product_id": "6556",
+    "name": "Om Ali With Nuts",
+    "brand": "Holw Elsham",
+    "category": "Baked Goods",
+    "product_type": "Dessert",
+    "size": {
+      "value": 155,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 52.99,
+      "discount_percentage": 24.5,
+      "current_price": 39.99
+    },
+    "availability": "in_stock",
+    "description": "Om Ali With Nuts",
+    "tags": [
+      "Om Ali",
+      "Dessert"
+    ]
+  },
+  {
+    "product_id": "6565",
+    "name": "Fine Flour",
+    "brand": "Al Doha",
+    "category": "Baked Goods",
+    "product_type": "Flour",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 37.5,
+      "discount_percentage": 20.0,
+      "current_price": 29.99
+    },
+    "availability": "in_stock",
+    "description": "Fine Flour",
+    "tags": [
+      "Fine Flour",
+      "Flour"
+    ]
+  },
+  {
+    "product_id": "6580",
+    "name": "Basbousa With Hazelnut",
+    "brand": "Holw Elsham",
+    "category": "Baked Goods",
+    "product_type": "Dessert",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 64.99,
+      "discount_percentage": 23.1,
+      "current_price": 49.99
+    },
+    "availability": "in_stock",
+    "description": "Basbousa With Hazelnut",
+    "tags": [
+      "Basbousa",
+      "Dessert"
+    ]
+  },
+  {
+    "product_id": "6608",
+    "name": "Basbousa With Cream",
+    "brand": "Holw Elsham",
+    "category": "Baked Goods",
+    "product_type": "Dessert",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 64.99,
+      "discount_percentage": 23.1,
+      "current_price": 49.99
+    },
+    "availability": "in_stock",
+    "description": "Basbousa With Cream",
+    "tags": [
+      "Basbousa",
+      "Dessert"
+    ]
+  },
+  {
+    "product_id": "7005",
+    "name": "Cling Film",
+    "brand": "Demita",
+    "category": "Household",
+    "product_type": "Kitchen Tool",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 49.95,
+      "discount_percentage": 20.0,
+      "current_price": 39.95
+    },
+    "availability": "in_stock",
+    "description": "Cling Film",
+    "tags": [
+      "Cling Film",
+      "Kitchen Tool"
+    ]
+  },
+  {
+    "product_id": "7020",
+    "name": "Demitta Aluminum Foil",
+    "brand": "Demitta",
+    "category": "Household",
+    "product_type": "Foil",
+    "size": null,
+    "price": {
+      "original_price": 169.95,
+      "discount_percentage": 11.8,
+      "current_price": 149.95
+    },
+    "availability": "in_stock",
+    "description": "Keep your food fresh for a long time with the Demitta Aluminum Foil. This foil is exceptionally lightweight, flexible, and can also be recycled very easily. Furthermore, it is hygienic, non-toxic, and helps keep the aroma of your preparations intact for a long time. It also offers protection from light, oils and grease, and microorganisms.",
+    "tags": [
+      "aluminum foil",
+      "household",
+      "food storage"
+    ]
+  },
+  {
+    "product_id": "8083",
+    "name": "El Rashidi Plain Halawa",
+    "brand": "El Rashid El-Mizan",
+    "category": "Food",
+    "product_type": "Halawa",
+    "size": {
+      "value": 230,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 62.0,
+      "discount_percentage": 11.3,
+      "current_price": 54.99
+    },
+    "availability": "in_stock",
+    "description": "The El Rashidi El Mizan Plain Halawa Spread is the perfect accompaniment for bread, biscuits, or cookies for enhanced taste. The confectionery is ideal for consuming directly or useful as a spread. It packs an excellent taste and makes for a great addition to your breakfast table.",
+    "tags": [
+      "halawa",
+      "food",
+      "spread"
+    ]
+  },
+  {
+    "product_id": "8087",
+    "name": "El Bawadi Tahina",
+    "brand": "Al-Bawadi",
+    "category": "Food",
+    "product_type": "Tahina",
+    "size": null,
+    "price": {
+      "original_price": 142.75,
+      "discount_percentage": 32.1,
+      "current_price": 96.99
+    },
+    "availability": "in_stock",
+    "description": "Prepare finger-licking meals like hummus, baba ghanoush, halva, and more with the El Bawadi Tahina. It packs an excellent taste and makes a great addition to your everyday meal. It is carefully made from the toasted ground hulled sesame, making it safe and reliable to use.",
+    "tags": [
+      "tahina",
+      "food",
+      "sesame"
+    ]
+  },
+  {
+    "product_id": "8096",
+    "name": "El Rashidi Plain Halawa",
+    "brand": "El Rashid El-Mizan",
+    "category": "Food",
+    "product_type": "Halawa",
+    "size": {
+      "value": 510,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 118.75,
+      "discount_percentage": 24.2,
+      "current_price": 89.99
+    },
+    "availability": "in_stock",
+    "description": "The El Rashidi El Mizan Plain Halawa Spread is the perfect accompaniment for bread, biscuits, or cookies for enhanced taste. The confectionery is ideal for consuming directly or useful as a spread. It packs an excellent taste and makes for a great addition to your breakfast table.",
+    "tags": [
+      "halawa",
+      "food",
+      "spread"
+    ]
+  },
+  {
+    "product_id": "8100",
+    "name": "Ferrero Nutella Hazelnut",
+    "brand": "Ferrero",
+    "category": "Food",
+    "product_type": "Nutella",
+    "size": null,
+    "price": {
+      "original_price": 273.0,
+      "discount_percentage": 21.7,
+      "current_price": 213.75
+    },
+    "availability": "in_stock",
+    "description": "Make your breakfast tastier and more enjoyable for your kids with the Ferrero Nutella Chocolate Spread. It is enriched with cocoa, butter, milk, and sugar to give it a rich taste. You can spread it on a bread slice or a toast to enjoy a sweet treat. It will delight your kids as they keep asking for more. You can also prepare a wide range of desserts for your whole family.",
+    "tags": [
+      "nutella",
+      "food",
+      "chocolate"
+    ]
+  },
+  {
+    "product_id": "8157",
+    "name": "El Rashidi Halawa Spread",
+    "brand": "El Rashid El-Mizan",
+    "category": "Food",
+    "product_type": "Halawa",
+    "size": {
+      "value": 300,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 71.0,
+      "discount_percentage": 16.9,
+      "current_price": 58.99
+    },
+    "availability": "in_stock",
+    "description": "Treat yourself with the delightfully sweet El Rashidi El Mizan Halawa Spread. The confectionery is ideal for consuming directly or be used a spread. It packs an excellent taste and makes for a great addition to your breakfast table.",
+    "tags": [
+      "halawa",
+      "food",
+      "spread"
+    ]
+  },
+  {
+    "product_id": "8162",
+    "name": "El Rashidi Spread Halawa Chocolate",
+    "brand": "El Rashid El-Mizan",
+    "category": "Food",
+    "product_type": "Halawa",
+    "size": {
+      "value": 300,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 75.5,
+      "discount_percentage": 16.6,
+      "current_price": 62.99
+    },
+    "availability": "in_stock",
+    "description": "Treat yourself with the delightfully sweet El Rashidi El Mizan Chocolate Halawa Spread. The confectionery is ideal for consuming directly or be used a spread. It packs an excellent taste and makes for a great addition to your breakfast table.",
+    "tags": [
+      "halawa",
+      "food",
+      "chocolate"
+    ]
+  },
+  {
+    "product_id": "9011",
+    "name": "Imtenan Coconut Oil",
+    "brand": "Imtenan",
+    "category": "Food",
+    "product_type": "Coconut Oil",
+    "size": null,
+    "price": {
+      "original_price": 298.99,
+      "discount_percentage": 14.7,
+      "current_price": 254.99
+    },
+    "availability": "in_stock",
+    "description": "Keep your entire family safe and healthy with the Imtenan Coconut Oil. The oil is an excellent source of fatty acids, antioxidants, vitamin E, and contains zero cholesterol. It is suitable for all kinds of cuisines and also for salad dressing and flavoring. This oil also helps keep the heart healthy and warm on festivities. It is ideally suited for cooking, frying, and baking all delectable and cuisines.",
+    "tags": [
+      "coconut oil",
+      "food",
+      "health"
+    ]
+  },
+  {
+    "product_id": "9495",
+    "name": "Al Doha Egyptian White Beans",
+    "brand": "Al Doha",
+    "category": "Food",
+    "product_type": "White Beans",
+    "size": {
+      "value": 500,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 98.99,
+      "discount_percentage": 14.1,
+      "current_price": 84.99
+    },
+    "availability": "in_stock",
+    "description": "Let seasonal availability not stop you from cooking your favorite delicacies with the Al Doha Egyptian White Beans. With premium-quality preservation of carefully selected white beans, you get high-quality ingredients whenever you need them. Its preserved form is easy to store and does not require a lot of monitoring.",
+    "tags": [
+      "white beans",
+      "food",
+      "preserved"
+    ]
+  },
+  {
+    "product_id": "9497",
+    "name": "Al Doha Yellow Lentil",
+    "brand": "Al Doha",
+    "category": "Food",
+    "product_type": "Yellow Lentil",
+    "size": {
+      "value": 500,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 66.75,
+      "discount_percentage": 13.1,
+      "current_price": 57.99
+    },
+    "availability": "in_stock",
+    "description": "Let seasonal availability not stop you from cooking your favorite delicacies with the Al Doha Egyptian Yellow Lentil. With premium-quality preservation of carefully selected yellow lentil, you get high-quality ingredients whenever you need them. Its preserved form is easy to store and does not require a lot of monitoring.",
+    "tags": [
+      "yellow lentil",
+      "food",
+      "preserved"
+    ]
+  },
+  {
+    "product_id": "10558",
+    "name": "Halwani Bros Oriental Sausages",
+    "brand": "Halwani",
+    "category": "Food",
+    "product_type": "Oriental Sausages",
+    "size": {
+      "value": 300,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 164.99,
+      "discount_percentage": 9.1,
+      "current_price": 149.99
+    },
+    "availability": "in_stock",
+    "description": "Prepare delicious and juicy burgers, pizzas, and sandwiches with the Halwani Bros Oriental Sausages. This ready-to-eat sausage is filled with rich nutritive values that promote healthy growth. You can enjoy this snack with the choice of your sauce.",
+    "tags": [
+      "oriental sausages",
+      "food",
+      "snack"
+    ]
+  },
+  {
+    "product_id": "10559",
+    "name": "Halwani Bros Beef Burger",
+    "brand": "Halwani",
+    "category": "Food",
+    "product_type": "Beef Burger",
+    "size": {
+      "value": 8,
+      "unit": "pcs"
+    },
+    "price": {
+      "original_price": 188.99,
+      "discount_percentage": 15.3,
+      "current_price": 159.99
+    },
+    "availability": "in_stock",
+    "description": "The Halwani Bros Beef Burger curbs your food cravings with its delicious flavors. It features an excellent mix of rich spices and ingredients that offers a great taste. You can serve this delicacy to your guests on occasions like a family reunion and get together.",
+    "tags": [
+      "beef burger",
+      "food",
+      "delicacy"
+    ]
+  },
+  {
+    "product_id": "10562",
+    "name": "Halwani Bros Minced Meat",
+    "brand": "Halwani",
+    "category": "Food",
+    "product_type": "Minced Meat",
+    "size": {
+      "value": 350,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 194.99,
+      "discount_percentage": 7.7,
+      "current_price": 179.99
+    },
+    "availability": "in_stock",
+    "description": "Prepare a plate full of varieties with the Halwani Bros Minced Meat. It is filled with rich protein and nutrients that promote healthy growth. The ready-to-add minced meat cuts down the preparation time.",
+    "tags": [
+      "minced meat",
+      "food",
+      "healthy"
+    ]
+  },
+  {
+    "product_id": "10572",
+    "name": "Halwani Bros Beef Hot Dog",
+    "brand": "Halwani",
+    "category": "Food",
+    "product_type": "Beef Hot Dog",
+    "size": {
+      "value": 900,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 264.0,
+      "discount_percentage": 9.1,
+      "current_price": 239.99
+    },
+    "availability": "in_stock",
+    "description": "The Halwani Bros Beef Hot Dog curbs your food cravings with its delicious flavors. It features an excellent mix of rich spices and ingredients that offers a great taste. You can serve this delicacy to your guests on occasions like a family reunion and get together.",
+    "tags": [
+      "beef hot dog",
+      "food",
+      "delicacy"
+    ]
+  },
+  {
+    "product_id": "10581",
+    "name": "Atyab Beef Burger",
+    "brand": "Atyab",
+    "category": "Food",
+    "product_type": "Beef Burger",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 184.99,
+      "discount_percentage": 13.5,
+      "current_price": 159.99
+    },
+    "availability": "in_stock",
+    "description": "Curb your hunger pangs with the Atyab Beef Burger. It features an excellent mix of rich spices and ingredients that offers a great taste. You can serve this delicacy to your guests on occasions like a family reunion and get together.",
+    "tags": [
+      "beef burger",
+      "food",
+      "delicacy"
+    ]
+  },
+  {
+    "product_id": "10583",
+    "name": "Atyab Jumbo Beef Burger",
+    "brand": "Atyab",
+    "category": "Food",
+    "product_type": "Jumbo Beef Burger",
+    "size": {
+      "value": 1500,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 494.0,
+      "discount_percentage": 9.9,
+      "current_price": 444.99
+    },
+    "availability": "in_stock",
+    "description": "Curb your hunger pangs with the Atyab Jumbo Beef Burger. It features an excellent mix of rich spices and ingredients that offers a great taste. You can serve this delicacy to your guests on occasions like a family reunion and get together.",
+    "tags": [
+      "jumbo beef burger",
+      "food",
+      "delicacy"
+    ]
+  },
+  {
+    "product_id": "10584",
+    "name": "Atyab Beef Hot Dog",
+    "brand": "Atyab",
+    "category": "Food",
+    "product_type": "Beef Hot Dog",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 299.99,
+      "discount_percentage": 8.3,
+      "current_price": 274.99
+    },
+    "availability": "in_stock",
+    "description": "Curb your hunger pangs with the Atyab Beef Hot Dog. It features an excellent mix of rich spices and ingredients that offers a great taste. You can serve this delicacy to your guests on occasions like a family reunion and get together.",
+    "tags": [
+      "beef hot dog",
+      "food",
+      "delicacy"
+    ]
+  },
+  {
+    "product_id": "10585",
+    "name": "Atyab Beef Hot Dog",
+    "brand": "Atyab",
+    "category": "Food",
+    "product_type": "Beef Hot Dog",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 299.99,
+      "discount_percentage": 8.3,
+      "current_price": 274.99
+    },
+    "availability": "in_stock",
+    "description": "Curb your hunger pangs with the Atyab Beef Hot Dog. It features an excellent mix of rich spices and ingredients that offers a great taste. You can serve this delicacy to your guests on occasions like a family reunion and get together.",
+    "tags": [
+      "beef hot dog",
+      "food",
+      "delicacy"
+    ]
+  },
+  {
+    "product_id": "10586",
+    "name": "Atyab Beef Burger",
+    "brand": "Atyab",
+    "category": "Food",
+    "product_type": "Beef Burger",
+    "size": {
+      "value": 20,
+      "unit": "pcs"
+    },
+    "price": {
+      "original_price": 324.0,
+      "discount_percentage": 13.6,
+      "current_price": 279.99
+    },
+    "availability": "in_stock",
+    "description": "Curb your hunger pangs with the Atyab Beef Burger. It features an excellent mix of rich spices and ingredients that offers a great taste. You can serve this delicacy to your guests on occasions like a family reunion and get together.",
+    "tags": [
+      "beef burger",
+      "food",
+      "delicacy"
+    ]
+  },
+  {
+    "product_id": "10588",
+    "name": "Atyab Oriental Sausages",
+    "brand": "Atyab",
+    "category": "Food",
+    "product_type": "Oriental Sausages",
+    "size": {
+      "value": 350,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 164.99,
+      "discount_percentage": 15.2,
+      "current_price": 139.99
+    },
+    "availability": "in_stock",
+    "description": "Prepare delicious and juicy burgers, pizzas, and sandwiches with the Atyab Oriental Sausages. This ready-to-eat sausage is filled with rich nutritive values that promote healthy growth. You can enjoy this snack with the choice of your sauce.",
+    "tags": [
+      "oriental sausages",
+      "food",
+      "snack"
+    ]
+  },
+  {
+    "product_id": "10589",
+    "name": "Atyab Beef Kofta",
+    "brand": "Atyab",
+    "category": "Meat",
+    "product_type": "Kofta",
+    "size": {
+      "value": 350,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 139.99,
+      "discount_percentage": 10.7,
+      "current_price": 124.99
+    },
+    "availability": "in_stock",
+    "description": "The Atyab Beef Kofta makes your mealtime more delicious.",
+    "tags": [
+      "Beef",
+      "Kofta",
+      "Delicious"
+    ]
+  },
+  {
+    "product_id": "10591",
+    "name": "Atyab Oriental Sausages",
+    "brand": "Atyab",
+    "category": "Oriental",
+    "product_type": "Sausages",
+    "size": {
+      "value": 900,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 307.99,
+      "discount_percentage": 9.1,
+      "current_price": 279.99
+    },
+    "availability": "in_stock",
+    "description": "Prepare delicious and juicy burgers, pizzas, and sandwiches with the Atyab Oriental Sausages.",
+    "tags": [
+      "Oriental",
+      "Sausages",
+      "Delicious"
+    ]
+  },
+  {
+    "product_id": "10592",
+    "name": "Atyab Beef Kofta",
+    "brand": "Atyab",
+    "category": "Meat",
+    "product_type": "Kofta",
+    "size": {
+      "value": 900,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 299.99,
+      "discount_percentage": 6.7,
+      "current_price": 279.99
+    },
+    "availability": "in_stock",
+    "description": "The Atyab Beef Kofta makes your mealtime more delicious.",
+    "tags": [
+      "Beef",
+      "Kofta",
+      "Delicious"
+    ]
+  },
+  {
+    "product_id": "10595",
+    "name": "Atyab Minced Meat",
+    "brand": "Atyab",
+    "category": "Meat",
+    "product_type": "Minced",
+    "size": {
+      "value": 300,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 196.99,
+      "discount_percentage": 13.7,
+      "current_price": 169.99
+    },
+    "availability": "in_stock",
+    "description": "Prepare gourmet quality dishes with the Atyab Minced Meat.",
+    "tags": [
+      "Meat",
+      "Minced",
+      "Gourmet"
+    ]
+  },
+  {
+    "product_id": "10598",
+    "name": "Halawni Bros Beef Burger",
+    "brand": "Halwani",
+    "category": "Meat",
+    "product_type": "Burger",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 328.99,
+      "discount_percentage": 11.9,
+      "current_price": 289.99
+    },
+    "availability": "in_stock",
+    "description": "The Halwani Bros Beef Burger curbs your food cravings with its delicious flavors.",
+    "tags": [
+      "Beef",
+      "Burger",
+      "Delicious"
+    ]
+  },
+  {
+    "product_id": "10599",
+    "name": "Halwani Steak Burger",
+    "brand": "Halwani",
+    "category": "Meat",
+    "product_type": "Burger",
+    "size": {
+      "value": 150,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 339.99,
+      "discount_percentage": 16.2,
+      "current_price": 284.99
+    },
+    "availability": "in_stock",
+    "description": "The Halwani Bros Steak Burger curbs your food cravings with its delicious flavors.",
+    "tags": [
+      "Steak",
+      "Burger",
+      "Delicious"
+    ]
+  },
+  {
+    "product_id": "10605",
+    "name": "Koki Beef Burger",
+    "brand": "Americana",
+    "category": "Meat",
+    "product_type": "Burger",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 279.99,
+      "discount_percentage": 23.2,
+      "current_price": 214.99
+    },
+    "availability": "in_stock",
+    "description": "Koki Beef Burger -1Kg",
+    "tags": [
+      "Beef",
+      "Burger",
+      "Koki"
+    ]
+  },
+  {
+    "product_id": "10884",
+    "name": "Tiba Plastic Plate",
+    "brand": "Tiba",
+    "category": "Plastic",
+    "product_type": "Plate",
+    "size": {
+      "value": null,
+      "unit": "null"
+    },
+    "price": {
+      "original_price": 117.95,
+      "discount_percentage": 49.2,
+      "current_price": 59.95
+    },
+    "availability": "in_stock",
+    "description": "Tiba Plastic Plate-10PC",
+    "tags": [
+      "Plastic",
+      "Plate",
+      "Tiba"
+    ]
+  },
+  {
+    "product_id": "10986",
+    "name": "Fine Touch2Ply Kitchen Towel",
+    "brand": "Fine",
+    "category": "Kitchen",
+    "product_type": "Towel",
+    "size": {
+      "value": null,
+      "unit": "null"
+    },
+    "price": {
+      "original_price": 72.95,
+      "discount_percentage": 13.7,
+      "current_price": 62.95
+    },
+    "availability": "in_stock",
+    "description": "Keep your work station clean and dry with the Fine 2Ply Touch Kitchen Towels.",
+    "tags": [
+      "Kitchen",
+      "Towel",
+      "Fine"
+    ]
+  },
+  {
+    "product_id": "11075",
+    "name": "Fine Smart Toilet Paper",
+    "brand": "Fine",
+    "category": "Toilet Paper",
+    "product_type": "Toilet Paper",
+    "size": {
+      "value": null,
+      "unit": "null"
+    },
+    "price": {
+      "original_price": 132.95,
+      "discount_percentage": 24.8,
+      "current_price": 99.95
+    },
+    "availability": "in_stock",
+    "description": "The Fine Smart Choice Paper Toilet is a suitable sanitary solution for daily use.",
+    "tags": [
+      "Toilet Paper",
+      "Fine",
+      "Smart"
+    ]
+  },
+  {
+    "product_id": "11145",
+    "name": "Me & Metro Deluxe Kitchen Roll",
+    "brand": "Metro Private",
+    "category": "Kitchen",
+    "product_type": "Roll",
+    "size": {
+      "value": null,
+      "unit": "null"
+    },
+    "price": {
+      "original_price": 29.5,
+      "discount_percentage": 22.1,
+      "current_price": 22.99
+    },
+    "availability": "in_stock",
+    "description": "Keep your kitchen clean and hygienic with the Me and Metro Deluxe Kitchen Roll.",
+    "tags": [
+      "Kitchen",
+      "Roll",
+      "Me"
+    ]
+  },
+  {
+    "product_id": "11521",
+    "name": "Kirox Odls Flying Insect Killer",
+    "brand": "Kirox",
+    "category": "Insect Killer",
+    "product_type": "Spray",
+    "size": {
+      "value": 400,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 77.95,
+      "discount_percentage": 18.0,
+      "current_price": 63.95
+    },
+    "availability": "in_stock",
+    "description": "Ensure that your house is free of insects with the Kirox Flying Insect Killer.",
+    "tags": [
+      "Insect Killer",
+      "Spray",
+      "Kirox"
+    ]
+  },
+  {
+    "product_id": "11608",
+    "name": "Frida Air Freshener Peach",
+    "brand": "Frida",
+    "category": "Air Freshener",
+    "product_type": "Spray",
+    "size": {
+      "value": 460,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 74.95,
+      "discount_percentage": 16.3,
+      "current_price": 62.75
+    },
+    "availability": "in_stock",
+    "description": "Eliminate the bad odor and bacteria from the room with the Frida Aqua Sensation Peach Air Freshener.",
+    "tags": [
+      "Air Freshener",
+      "Spray",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11609",
+    "name": "Frida Aqua Sens Oud Air Freshener",
+    "brand": "Frida",
+    "category": "Air Freshener",
+    "product_type": "Spray",
+    "size": {
+      "value": 460,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 74.95,
+      "discount_percentage": 16.3,
+      "current_price": 62.75
+    },
+    "availability": "in_stock",
+    "description": "Eliminate the bad odor and bacteria from the room with the Frida Aqua Sensation Oud Air Freshener.",
+    "tags": [
+      "Air Freshener",
+      "Spray",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11610",
+    "name": "Frida Air Fresheners jasmine",
+    "brand": "Frida",
+    "category": "Air Freshener",
+    "product_type": "Spray",
+    "size": {
+      "value": 460,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 74.95,
+      "discount_percentage": 16.3,
+      "current_price": 62.75
+    },
+    "availability": "in_stock",
+    "description": "Frida Air Fresheners jasmine -460Ml",
+    "tags": [
+      "Air Freshener",
+      "Spray",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11611",
+    "name": "Frida Air Fresheners meadows",
+    "brand": "Frida",
+    "category": "Air Freshener",
+    "product_type": "Spray",
+    "size": {
+      "value": 460,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 74.95,
+      "discount_percentage": 16.3,
+      "current_price": 62.75
+    },
+    "availability": "in_stock",
+    "description": "Frida Air Fresheners meadows -460Ml",
+    "tags": [
+      "Air Freshener",
+      "Spray",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11612",
+    "name": "Frida Air Fresheners Chill Out",
+    "brand": "Frida",
+    "category": "Air Freshener",
+    "product_type": "Spray",
+    "size": {
+      "value": 460,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 74.95,
+      "discount_percentage": 16.3,
+      "current_price": 62.75
+    },
+    "availability": "in_stock",
+    "description": "Frida Air Fresheners Chill Out -460Ml",
+    "tags": [
+      "Air Freshener",
+      "Spray",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11613",
+    "name": "Frida Air Freshener Framboise Scent",
+    "brand": "Frida",
+    "category": "Air Freshener",
+    "product_type": "Spray",
+    "size": {
+      "value": 460,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 74.95,
+      "discount_percentage": 16.3,
+      "current_price": 62.75
+    },
+    "availability": "in_stock",
+    "description": "Frida Air Freshener Framboise Scent460Ml",
+    "tags": [
+      "Air Freshener",
+      "Spray",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11699",
+    "name": "Pril Liquid Detergent",
+    "brand": "Pril",
+    "category": "Liquid Detergent",
+    "product_type": "Detergent",
+    "size": {
+      "value": null,
+      "unit": "null"
+    },
+    "price": {
+      "original_price": 124.95,
+      "discount_percentage": 12.0,
+      "current_price": 109.95
+    },
+    "availability": "in_stock",
+    "description": "Pril Liquid Detergent -2.5L+General S.O",
+    "tags": [
+      "Liquid Detergent",
+      "Detergent",
+      "Pril"
+    ]
+  },
+  {
+    "product_id": "11702",
+    "name": "Frida Home Cleaner Oud",
+    "brand": "Frida",
+    "category": "Home Cleaner",
+    "product_type": "Cleaner",
+    "size": {
+      "value": 480,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 49.95,
+      "discount_percentage": 16.0,
+      "current_price": 41.95
+    },
+    "availability": "in_stock",
+    "description": "Keep your space odor- and bacteria-free with the Frida Oud Home Cleaner.",
+    "tags": [
+      "Home Cleaner",
+      "Cleaner",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11703",
+    "name": "Frida Home Cleaner Lemoncello",
+    "brand": "Frida",
+    "category": "Home",
+    "product_type": "Cleaner",
+    "size": {
+      "value": 480,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 49.95,
+      "discount_percentage": 16.0,
+      "current_price": 41.95
+    },
+    "availability": "in_stock",
+    "description": "Keep your space odor- and bacteria-free with the Frida Lemoncello Home Cleaner.",
+    "tags": [
+      "Home Cleaner",
+      "Lemoncello",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11704",
+    "name": "Frida Home Fragrance Fruit Punch",
+    "brand": "Frida",
+    "category": "Home",
+    "product_type": "Fragrance",
+    "size": {
+      "value": 480,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 49.95,
+      "discount_percentage": 16.0,
+      "current_price": 41.95
+    },
+    "availability": "in_stock",
+    "description": "Frida Home Fragrance Fruit Punch",
+    "tags": [
+      "Home Fragrance",
+      "Fruit Punch",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11705",
+    "name": "Frida Home Fragrance Beach Dream",
+    "brand": "Frida",
+    "category": "Home",
+    "product_type": "Fragrance",
+    "size": {
+      "value": 480,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 49.95,
+      "discount_percentage": 16.0,
+      "current_price": 41.95
+    },
+    "availability": "in_stock",
+    "description": "Frida Home Fragrance Beach Dream",
+    "tags": [
+      "Home Fragrance",
+      "Beach Dream",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11706",
+    "name": "Frida Home Fragrance Dark Forest",
+    "brand": "Frida",
+    "category": "Home",
+    "product_type": "Fragrance",
+    "size": {
+      "value": 480,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 49.95,
+      "discount_percentage": 16.0,
+      "current_price": 41.95
+    },
+    "availability": "in_stock",
+    "description": "Frida Home Fragrance Dark Forest",
+    "tags": [
+      "Home Fragrance",
+      "Dark Forest",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11757",
+    "name": "Frida Arabesque Air Fresheners",
+    "brand": "Frida",
+    "category": "Arabesque",
+    "product_type": "Air Fresheners",
+    "size": {
+      "value": 460,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 74.95,
+      "discount_percentage": 16.3,
+      "current_price": 62.75
+    },
+    "availability": "in_stock",
+    "description": "Eliminate the bad odor and bacteria from the room with the Frida Arabesque Air Freshener.",
+    "tags": [
+      "Air Fresheners",
+      "Arabesque",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11759",
+    "name": "Frida Clean Home Cleaner",
+    "brand": "Frida",
+    "category": "Clean",
+    "product_type": "Cleaner",
+    "size": {
+      "value": 480,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 49.95,
+      "discount_percentage": 16.0,
+      "current_price": 41.95
+    },
+    "availability": "in_stock",
+    "description": "Keep your space odor- and bacteria-free with the Frida Clean Home Cleaner.",
+    "tags": [
+      "Home Cleaner",
+      "Clean",
+      "Frida"
+    ]
+  },
+  {
+    "product_id": "11784",
+    "name": "Dettol Bath and Kitchen Cleaner",
+    "brand": "Dettol",
+    "category": "Bath",
+    "product_type": "Cleaner",
+    "size": {
+      "value": 5000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 525.5,
+      "discount_percentage": 16.3,
+      "current_price": 439.95
+    },
+    "availability": "in_stock",
+    "description": "Dettol Bath and Kitchen Cleaner",
+    "tags": [
+      "Bath and Kitchen Cleaner",
+      "Dettol"
+    ]
+  },
+  {
+    "product_id": "12156",
+    "name": "Dettol Disinfectant",
+    "brand": "Dettol",
+    "category": "Disinfectant",
+    "product_type": "Disinfectant",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 863.95,
+      "discount_percentage": 16.7,
+      "current_price": 719.95
+    },
+    "availability": "in_stock",
+    "description": "Dettol Disinfectant",
+    "tags": [
+      "Disinfectant",
+      "Dettol"
+    ]
+  },
+  {
+    "product_id": "12298",
+    "name": "Oxi Low Suds Oriental Breeze",
+    "brand": "Oxi Ls",
+    "category": "Oxi",
+    "product_type": "Low Suds",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 374.95,
+      "discount_percentage": 14.7,
+      "current_price": 319.95
+    },
+    "availability": "in_stock",
+    "description": "Oxi Low Suds Oriental Breeze 4K+2K S.O",
+    "tags": [
+      "Low Suds",
+      "Oriental Breeze",
+      "Oxi Ls"
+    ]
+  },
+  {
+    "product_id": "12299",
+    "name": "Oxi Low Suds Powder Spring",
+    "brand": "Oxi Ls",
+    "category": "Oxi",
+    "product_type": "Low Suds",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 374.95,
+      "discount_percentage": 14.7,
+      "current_price": 319.95
+    },
+    "availability": "in_stock",
+    "description": "Oxi Low Suds Powder Spring 4K+2K S.O",
+    "tags": [
+      "Low Suds",
+      "Powder Spring",
+      "Oxi Ls"
+    ]
+  },
+  {
+    "product_id": "12326",
+    "name": "Persil Automatic Laundry Color",
+    "brand": "Persil Ls",
+    "category": "Persil",
+    "product_type": "Automatic Laundry Color",
+    "size": {
+      "value": 800,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 84.95,
+      "discount_percentage": 21.2,
+      "current_price": 66.95
+    },
+    "availability": "in_stock",
+    "description": "Persil Automatic Laundry Color 800g",
+    "tags": [
+      "Automatic Laundry Color",
+      "Persil Ls"
+    ]
+  },
+  {
+    "product_id": "12335",
+    "name": "Persil Automatic Laundry Color 2.5Kg",
+    "brand": "Persil Ls",
+    "category": "Persil",
+    "product_type": "Automatic Laundry Color",
+    "size": {
+      "value": 2500,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 194.95,
+      "discount_percentage": 18.0,
+      "current_price": 159.95
+    },
+    "availability": "in_stock",
+    "description": "Persil Automatic Laundry Color 2.5Kg",
+    "tags": [
+      "Automatic Laundry Color",
+      "Persil Ls"
+    ]
+  },
+  {
+    "product_id": "12377",
+    "name": "Persil Gel Power Washing",
+    "brand": "Persil Gel",
+    "category": "Persil",
+    "product_type": "Power Washing",
+    "size": {
+      "value": 2600,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 199.95,
+      "discount_percentage": 12.5,
+      "current_price": 174.95
+    },
+    "availability": "in_stock",
+    "description": "Give your clothes a spotless cleaning with the Persil Power Washing Gel.",
+    "tags": [
+      "Power Washing",
+      "Persil Gel"
+    ]
+  },
+  {
+    "product_id": "12378",
+    "name": "Persil Gel Power Washing Lavender",
+    "brand": "Persil Gel",
+    "category": "Persil",
+    "product_type": "Power Washing",
+    "size": {
+      "value": 2600,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 199.95,
+      "discount_percentage": 12.5,
+      "current_price": 174.95
+    },
+    "availability": "in_stock",
+    "description": "Give your clothes a spotless cleaning with the Persil Power Lavender Washing Gel.",
+    "tags": [
+      "Power Washing",
+      "Lavender",
+      "Persil Gel"
+    ]
+  },
+  {
+    "product_id": "12407",
+    "name": "Oxi Brite 2*1 Lavender",
+    "brand": "Oxi Ls",
+    "category": "Oxi",
+    "product_type": "2 in 1 Lavender",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 374.95,
+      "discount_percentage": 14.7,
+      "current_price": 319.95
+    },
+    "availability": "in_stock",
+    "description": "The Oxi Brite 2 in 1 Lavender Detergent Powder keeps your clothes clean and fresh after each wash.",
+    "tags": [
+      "2 in 1 Lavender",
+      "Oxi Ls"
+    ]
+  },
+  {
+    "product_id": "12588",
+    "name": "Al-Fath Gabg Bag Roll",
+    "brand": "Al-Fath",
+    "category": "Al",
+    "product_type": "Gabg Bag Roll",
+    "size": {
+      "value": 70,
+      "unit": "x 90cm"
+    },
+    "price": {
+      "original_price": 209.95,
+      "discount_percentage": 28.6,
+      "current_price": 149.95
+    },
+    "availability": "in_stock",
+    "description": "The Al-Fath Plastic Garbage Roll is an excellent addition to your personal care accessories.",
+    "tags": [
+      "Gabg Bag Roll",
+      "Al-Fath"
+    ]
+  },
+  {
+    "product_id": "12646",
+    "name": "El-Hosan Garb. Bags",
+    "brand": "El-Hosan",
+    "category": "El",
+    "product_type": "Garbage Bags",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 119.95,
+      "discount_percentage": 41.7,
+      "current_price": 69.95
+    },
+    "availability": "in_stock",
+    "description": "The El-Hosan Garbage Bags helps effortlessly contain huge piles of trash for maintaining a clean surrounding.",
+    "tags": [
+      "Garbage Bags",
+      "El-Hosan"
+    ]
+  },
+  {
+    "product_id": "12650",
+    "name": "El-Hosan Ref Bag Roll",
+    "brand": "El-Hosan",
+    "category": "El",
+    "product_type": "Refrigerator Bag Roll",
+    "size": {
+      "value": 25,
+      "unit": "x 40cm"
+    },
+    "price": {
+      "original_price": 105.95,
+      "discount_percentage": 43.4,
+      "current_price": 59.95
+    },
+    "availability": "in_stock",
+    "description": "The El-Hosan Refrigerator Bag Roll provides a clean containment for preserving your fresh veggies.",
+    "tags": [
+      "Refrigerator Bag Roll",
+      "El-Hosan"
+    ]
+  },
+  {
+    "product_id": "15834",
+    "name": "Pantene Pro-V Shampoo Milky Repair",
+    "brand": "Pantene",
+    "category": "Pro",
+    "product_type": "Shampoo Milky Repair",
+    "size": {
+      "value": 400,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 204.95,
+      "discount_percentage": 20.0,
+      "current_price": 163.95
+    },
+    "availability": "in_stock",
+    "description": "Achieve better styles, without the damages with the Pantene Pro-V Milky Damage Repair Shampoo.",
+    "tags": [
+      "Shampoo Milky Repair",
+      "Pantene"
+    ]
+  },
+  {
+    "product_id": "15835",
+    "name": "Pantene Smooth & Silky Hair Shampoo",
+    "brand": "Pantene",
+    "category": "Smooth",
+    "product_type": "Smooth & Silky Hair Shampoo",
+    "size": {
+      "value": 400,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 204.95,
+      "discount_percentage": 20.0,
+      "current_price": 163.95
+    },
+    "availability": "in_stock",
+    "description": "Experience stunning shine with the Pantene Pro-V Smooth and Silky Shampoo.",
+    "tags": [
+      "Smooth & Silky Hair Shampoo",
+      "Pantene"
+    ]
+  },
+  {
+    "product_id": "15836",
+    "name": "Pantene Pro-V Daily Care Shampoo - 400 Ml",
+    "brand": "Pantene",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 400,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 204.95,
+      "discount_percentage": 20.0,
+      "current_price": 163.95
+    },
+    "availability": "in_stock",
+    "description": "Be beautiful and stunning with the Pantene Pro-V Daily Care Shampoo. Its unique formula makes your hair stronger, longer, silkier, and also protects from damages. This shampoo deeply nourishes and smoothens the hair from root to tip, making it more manageable. Moreover, it leaves your hair with a refreshing fragrance that delights your olfactory senses.",
+    "tags": [
+      "hair",
+      "shampoo",
+      "care"
+    ]
+  },
+  {
+    "product_id": "15837",
+    "name": "Pantene Pro-V Anti-Hair Shampoo-400Ml",
+    "brand": "Pantene",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 400,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 204.95,
+      "discount_percentage": 20.0,
+      "current_price": 163.95
+    },
+    "availability": "in_stock",
+    "description": "Add some shine and volume to your hair with the Pantene Pro-V Anti Hair Fall Shampoo. Its unique formula makes your hair stronger, longer, silkier, and also protects from damages. This shampoo deeply nourishes and smoothens the hair from root to tip, making it more manageable. Moreover, it leaves your hair with a refreshing fragrance that delights your olfactory senses.",
+    "tags": [
+      "hair",
+      "shampoo",
+      "care"
+    ]
+  },
+  {
+    "product_id": "16042",
+    "name": "Clear Shampoo For Hair Loss Men-360Ml",
+    "brand": "Clear",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 360,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 127.95,
+      "discount_percentage": 14.1,
+      "current_price": 109.95
+    },
+    "availability": "in_stock",
+    "description": "Clear Shampoo For Hair Loss Men-360Ml",
+    "tags": [
+      "hair",
+      "shampoo",
+      "men"
+    ]
+  },
+  {
+    "product_id": "16043",
+    "name": "Clear Women Shampoo Soft Shiny -360Ml",
+    "brand": "Clear",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 360,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 127.95,
+      "discount_percentage": 14.1,
+      "current_price": 109.95
+    },
+    "availability": "in_stock",
+    "description": "Clear Women Shampoo Soft Shiny -360Ml",
+    "tags": [
+      "hair",
+      "shampoo",
+      "women"
+    ]
+  },
+  {
+    "product_id": "16045",
+    "name": "Clear Shampoo Deep Clean Men-360Ml",
+    "brand": "Clear",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 360,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 127.95,
+      "discount_percentage": 14.1,
+      "current_price": 109.95
+    },
+    "availability": "in_stock",
+    "description": "Clear Shampoo Deep Clean Men-360Ml",
+    "tags": [
+      "hair",
+      "shampoo",
+      "men"
+    ]
+  },
+  {
+    "product_id": "16159",
+    "name": "Sunsilk Shampoo Stunning Black Shine600M",
+    "brand": "Sunsilk",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 600,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 124.95,
+      "discount_percentage": 12.0,
+      "current_price": 109.95
+    },
+    "availability": "in_stock",
+    "description": "Get a healthy-looking hair with the Sunsilk Stunning Black Shine Shampoo. The powerful formula effectively cleanses unwanted dandruff, sebum, and environmental dust. It nourishes scalp and root to strengthen your hair. Also, it leaves your hair with a natural shine and refreshing aroma.",
+    "tags": [
+      "hair",
+      "shampoo",
+      "care"
+    ]
+  },
+  {
+    "product_id": "16160",
+    "name": "Sunsilk Shampoo Shine&Strength - 600Ml",
+    "brand": "Sunsilk",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 600,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 124.95,
+      "discount_percentage": 12.0,
+      "current_price": 109.95
+    },
+    "availability": "in_stock",
+    "description": "Get a healthy-looking hair with the Sunsilk Shine & Strength Shampoo. The powerful formula effectively cleanses unwanted dandruff, sebum, and environmental dust. It nourishes scalp and root to strengthen your hair. Also, it leaves your hair with a natural shine and refreshing aroma.",
+    "tags": [
+      "hair",
+      "shampoo",
+      "care"
+    ]
+  },
+  {
+    "product_id": "16161",
+    "name": "Sunsilk Soft & Smooth Shampoo - 600Ml",
+    "brand": "Sunsilk",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 600,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 124.95,
+      "discount_percentage": 12.0,
+      "current_price": 109.95
+    },
+    "availability": "in_stock",
+    "description": "Get a healthy-looking hair with the Sunsilk Soft & Smooth Shampoo. The powerful formula effectively cleanses unwanted dandruff, sebum, and environmental dust. It nourishes scalp and root to strengthen your hair. Also, it leaves your hair with a natural shine and refreshing aroma.",
+    "tags": [
+      "hair",
+      "shampoo",
+      "care"
+    ]
+  },
+  {
+    "product_id": "16162",
+    "name": "Sunsilk Shampoo For Damaged Hair600M S.O",
+    "brand": "Sunsilk",
+    "category": "Hair Care",
+    "product_type": "Shampoo",
+    "size": {
+      "value": 600,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 124.95,
+      "discount_percentage": 12.0,
+      "current_price": 109.95
+    },
+    "availability": "in_stock",
+    "description": "Sunsilk Shampoo For Damaged Hair600M S.O",
+    "tags": [
+      "hair",
+      "shampoo",
+      "care"
+    ]
+  },
+  {
+    "product_id": "16203",
+    "name": "Palmers Hair Food Formula Cream - 150g",
+    "brand": "Palmers",
+    "category": "Hair Care",
+    "product_type": "Cream",
+    "size": {
+      "value": 150,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 156.95,
+      "discount_percentage": 17.2,
+      "current_price": 129.95
+    },
+    "availability": "in_stock",
+    "description": "Breathe life into your hair by treating it with the Palmer's Hair Food Formula Cream to alleviate dullness and restore the original luster. The formula is infused with vitamins A, D, and E along with enriching protein ingredients known for their nourishing properties. It strengthens the roots and promotes hair growth.",
+    "tags": [
+      "hair",
+      "cream",
+      "care"
+    ]
+  },
+  {
+    "product_id": "16624",
+    "name": "Oral-B Toothbrush Classic-1P2+1",
+    "brand": "Oral-B",
+    "category": "Oral Care",
+    "product_type": "Toothbrush",
+    "size": null,
+    "price": {
+      "original_price": 129.95,
+      "discount_percentage": 23.1,
+      "current_price": 99.95
+    },
+    "availability": "in_stock",
+    "description": "Oral-B Toothbrush Classic-1P2+1",
+    "tags": [
+      "oral",
+      "toothbrush"
+    ]
+  },
+  {
+    "product_id": "16692",
+    "name": "Oral-B Toothbrush Black-1P- 2+1",
+    "brand": "Oral-B",
+    "category": "Oral Care",
+    "product_type": "Toothbrush",
+    "size": null,
+    "price": {
+      "original_price": 199.95,
+      "discount_percentage": 15.0,
+      "current_price": 169.95
+    },
+    "availability": "in_stock",
+    "description": "Provide your teeth protection with the Oral-B Ultrathin Sensitive Extra Soft Black Toothbrush. It cleans your teeth and eliminates tartar and plaque to prevent cavities. Featuring an ergonomic handle, it offers a perfect grip. It is composed from superior-quality materials for enhanced durability.",
+    "tags": [
+      "oral",
+      "toothbrush"
+    ]
+  },
+  {
+    "product_id": "16866",
+    "name": "Axe Spray Men Fresh Black -150Ml Offer",
+    "brand": "Axe",
+    "category": "Hair Care",
+    "product_type": "Spray",
+    "size": null,
+    "price": {
+      "original_price": 149.95,
+      "discount_percentage": 8.7,
+      "current_price": 136.95
+    },
+    "availability": "in_stock",
+    "description": "Axe Spray Men Fresh Black -150Ml Offer",
+    "tags": [
+      "hair",
+      "spray",
+      "men"
+    ]
+  },
+  {
+    "product_id": "16880",
+    "name": "Axe Spray Men Black Night -150Ml Offer",
+    "brand": "Axe",
+    "category": "Hair Care",
+    "product_type": "Spray",
+    "size": null,
+    "price": {
+      "original_price": 149.95,
+      "discount_percentage": 8.7,
+      "current_price": 136.95
+    },
+    "availability": "in_stock",
+    "description": "Axe Spray Men Black Night -150Ml Offer",
+    "tags": [
+      "hair",
+      "spray",
+      "men"
+    ]
+  },
+  {
+    "product_id": "17001",
+    "name": "Axe Gold Spray Men Temptation -150Ml",
+    "brand": "Axe",
+    "category": "Hair Care",
+    "product_type": "Spray",
+    "size": null,
+    "price": {
+      "original_price": 149.95,
+      "discount_percentage": 8.7,
+      "current_price": 136.95
+    },
+    "availability": "in_stock",
+    "description": "Axe Gold Spray Men Temptation -150Ml",
+    "tags": [
+      "hair",
+      "spray",
+      "men"
+    ]
+  },
+  {
+    "product_id": "19022",
+    "name": "Pampers Premium Care Size (5)- 50 Pc",
+    "brand": "Pampers Prem",
+    "category": "Baby Care",
+    "product_type": "Diaper",
+    "size": null,
+    "price": {
+      "original_price": 459.95,
+      "discount_percentage": 13.0,
+      "current_price": 399.95
+    },
+    "availability": "in_stock",
+    "description": "Pampers Premium Care Size (5)- 50 Pc",
+    "tags": [
+      "baby",
+      "diaper"
+    ]
+  },
+  {
+    "product_id": "19026",
+    "name": "Pampers Premium Care Size3 - 62Pc",
+    "brand": "Pampers Prem",
+    "category": "Baby Care",
+    "product_type": "Diaper",
+    "size": null,
+    "price": {
+      "original_price": 459.95,
+      "discount_percentage": 13.0,
+      "current_price": 399.95
+    },
+    "availability": "in_stock",
+    "description": "Pampers Premium Care Size3 - 62Pc",
+    "tags": [
+      "baby",
+      "diaper"
+    ]
+  },
+  {
+    "product_id": "19027",
+    "name": "Pampers Premium Care Size 4 - 58 Pc",
+    "brand": "Pampers Prem",
+    "category": "Baby Care",
+    "product_type": "Diaper",
+    "size": null,
+    "price": {
+      "original_price": 459.95,
+      "discount_percentage": 13.0,
+      "current_price": 399.95
+    },
+    "availability": "in_stock",
+    "description": "Pampers Premium Care Size 4 - 58 Pc",
+    "tags": [
+      "baby",
+      "diaper"
+    ]
+  },
+  {
+    "product_id": "19092",
+    "name": "Nivea Soft Moisturizing Cream - 200Ml",
+    "brand": "Nivea",
+    "category": "Body Care",
+    "product_type": "Cream",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 132.95,
+      "discount_percentage": 36.1,
+      "current_price": 84.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Soft Moisturizing Cream - 200Ml",
+    "tags": [
+      "body",
+      "cream",
+      "moisturizing"
+    ]
+  },
+  {
+    "product_id": "19337",
+    "name": "Nivea Cocoa Butter Body Cream - 200ml",
+    "brand": "Nivea",
+    "category": "Body Care",
+    "product_type": "Cream",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 132.95,
+      "discount_percentage": 36.1,
+      "current_price": 84.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Cocoa Butter Body Cream - 200ml",
+    "tags": [
+      "body",
+      "cream",
+      "cocoa"
+    ]
+  },
+  {
+    "product_id": "19351",
+    "name": "Nivea Nt Farns Face & Body Cream - 200ml",
+    "brand": "Nivea",
+    "category": "Beauty & Personal Care",
+    "product_type": "Face & Body Cream",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 132.95,
+      "discount_percentage": 36.1,
+      "current_price": 84.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Nt Farns Face & Body Cream - 200ml",
+    "tags": [
+      "face",
+      "body",
+      "cream",
+      "beauty",
+      "personal care"
+    ]
+  },
+  {
+    "product_id": "19518",
+    "name": "Rivoli Shower Gel Damask & violet 1L",
+    "brand": "Rivoli",
+    "category": "Beauty & Personal Care",
+    "product_type": "Shower Gel",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 101.95,
+      "discount_percentage": 31.4,
+      "current_price": 69.95
+    },
+    "availability": "in_stock",
+    "description": "Rivoli Shower Gel Damask & violet 1L",
+    "tags": [
+      "shower",
+      "gel",
+      "beauty",
+      "personal care"
+    ]
+  },
+  {
+    "product_id": "19520",
+    "name": "Rivoli Shower Gel Elegance Black -1L",
+    "brand": "Rivoli",
+    "category": "Beauty & Personal Care",
+    "product_type": "Shower Gel",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 101.95,
+      "discount_percentage": 31.4,
+      "current_price": 69.95
+    },
+    "availability": "in_stock",
+    "description": "Rivoli Shower Gel Elegance Black -1L",
+    "tags": [
+      "shower",
+      "gel",
+      "beauty",
+      "personal care"
+    ]
+  },
+  {
+    "product_id": "19521",
+    "name": "Rivoli Shower Gel Vanilla-Tube Purple 1L",
+    "brand": "Rivoli",
+    "category": "Beauty & Personal Care",
+    "product_type": "Shower Gel",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 101.95,
+      "discount_percentage": 31.4,
+      "current_price": 69.95
+    },
+    "availability": "in_stock",
+    "description": "Rivoli Shower Gel Vanilla-Tube Purple 1L",
+    "tags": [
+      "shower",
+      "gel",
+      "beauty",
+      "personal care"
+    ]
+  },
+  {
+    "product_id": "19688",
+    "name": "Nivea Men Sensitive Shaving Foam - 200Ml",
+    "brand": "Nivea",
+    "category": "Men",
+    "product_type": "Shaving Foam",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 269.95,
+      "discount_percentage": 37.0,
+      "current_price": 169.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Men Sensitive Shaving Foam - 200Ml",
+    "tags": [
+      "shaving",
+      "foam",
+      "men"
+    ]
+  },
+  {
+    "product_id": "19693",
+    "name": "Nivea Shaving Foam 200ml",
+    "brand": "Nivea",
+    "category": "Men",
+    "product_type": "Shaving Foam",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 269.95,
+      "discount_percentage": 37.0,
+      "current_price": 169.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Shaving Foam 200ml",
+    "tags": [
+      "shaving",
+      "foam",
+      "men"
+    ]
+  },
+  {
+    "product_id": "19696",
+    "name": "Nivea Men Fresh&Cool Shaving Gel - 200Ml",
+    "brand": "Nivea",
+    "category": "Men",
+    "product_type": "Shaving Gel",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 309.95,
+      "discount_percentage": 38.7,
+      "current_price": 189.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Men Fresh&Cool Shaving Gel - 200Ml",
+    "tags": [
+      "shaving",
+      "gel",
+      "men"
+    ]
+  },
+  {
+    "product_id": "19702",
+    "name": "Nivea Men Fresh & Cool Shaving Foam 200M",
+    "brand": "Nivea",
+    "category": "Men",
+    "product_type": "Shaving Foam",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 269.95,
+      "discount_percentage": 37.0,
+      "current_price": 169.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Men Fresh & Cool Shaving Foam 200M",
+    "tags": [
+      "shaving",
+      "foam",
+      "men"
+    ]
+  },
+  {
+    "product_id": "19733",
+    "name": "Nivea Men Sensitive Shaving Gel - 200ml",
+    "brand": "Nivea",
+    "category": "Men",
+    "product_type": "Shaving Gel",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 309.95,
+      "discount_percentage": 38.7,
+      "current_price": 189.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Men Sensitive Shaving Gel - 200ml",
+    "tags": [
+      "shaving",
+      "gel",
+      "men"
+    ]
+  },
+  {
+    "product_id": "19741",
+    "name": "Nivea Men Pr. & Care Shaving Gel - 200ml",
+    "brand": "Nivea",
+    "category": "Men",
+    "product_type": "Shaving Gel",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 309.95,
+      "discount_percentage": 38.7,
+      "current_price": 189.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Men Pr. & Care Shaving Gel - 200ml",
+    "tags": [
+      "shaving",
+      "gel",
+      "men"
+    ]
+  },
+  {
+    "product_id": "19776",
+    "name": "Nivea Men Deep Shaving Gel - 200Ml",
+    "brand": "Nivea",
+    "category": "Men",
+    "product_type": "Shaving Gel",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 309.95,
+      "discount_percentage": 38.7,
+      "current_price": 189.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Men Deep Shaving Gel - 200Ml",
+    "tags": [
+      "shaving",
+      "gel",
+      "men"
+    ]
+  },
+  {
+    "product_id": "19777",
+    "name": "Nivea Men Deep Shaving Foam - 200Ml",
+    "brand": "Nivea",
+    "category": "Men",
+    "product_type": "Shaving Foam",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 269.95,
+      "discount_percentage": 37.0,
+      "current_price": 169.95
+    },
+    "availability": "in_stock",
+    "description": "Nivea Men Deep Shaving Foam - 200Ml",
+    "tags": [
+      "shaving",
+      "foam",
+      "men"
+    ]
+  },
+  {
+    "product_id": "21265",
+    "name": "Snickers Chocolate 40g*5Pc",
+    "brand": "Snickers",
+    "category": "Chocolate",
+    "product_type": "Chocolate",
+    "size": {
+      "value": 200,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 174.99,
+      "discount_percentage": 11.4,
+      "current_price": 154.99
+    },
+    "availability": "in_stock",
+    "description": "Snickers Chocolate 40g*5Pc",
+    "tags": [
+      "chocolate",
+      "snickers"
+    ]
+  },
+  {
+    "product_id": "21437",
+    "name": "Schweppes Tangerine Can 300Ml",
+    "brand": "Schweppes",
+    "category": "Drinks",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 300,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 7.3,
+      "current_price": 15.75
+    },
+    "availability": "in_stock",
+    "description": "Schweppes Tangerine Can 300Ml",
+    "tags": [
+      "soft drink",
+      "tangerine"
+    ]
+  },
+  {
+    "product_id": "21447",
+    "name": "Coca Cola Can - 320Ml",
+    "brand": "Coca Cola",
+    "category": "Drinks",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 320,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 8.8,
+      "current_price": 15.5
+    },
+    "availability": "in_stock",
+    "description": "Coca Cola Can - 320Ml",
+    "tags": [
+      "soft drink",
+      "cola"
+    ]
+  },
+  {
+    "product_id": "21448",
+    "name": "Fanta Orange Can - 320Ml",
+    "brand": "Fanta",
+    "category": "Drinks",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 320,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 8.8,
+      "current_price": 15.5
+    },
+    "availability": "in_stock",
+    "description": "Fanta Orange Can 320Ml",
+    "tags": [
+      "soft drink",
+      "orange"
+    ]
+  },
+  {
+    "product_id": "21449",
+    "name": "Sprite Lemon Can 320Ml",
+    "brand": "Sprite",
+    "category": "Drinks",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 320,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 8.8,
+      "current_price": 15.5
+    },
+    "availability": "in_stock",
+    "description": "Sprite Lemon Can 320Ml",
+    "tags": [
+      "soft drink",
+      "lemon"
+    ]
+  },
+  {
+    "product_id": "21450",
+    "name": "Coca Cola Bottle - 950Ml",
+    "brand": "Coca Cola",
+    "category": "Drinks",
+    "product_type": "Beverage",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 25.5,
+      "discount_percentage": 10.8,
+      "current_price": 22.75
+    },
+    "availability": "in_stock",
+    "description": "Coca Cola Bottle - 950Ml",
+    "tags": [
+      "beverage",
+      "cola"
+    ]
+  },
+  {
+    "product_id": "21451",
+    "name": "Sprite Lemon Flavoured Soft Drink -950Ml",
+    "brand": "Sprite",
+    "category": "Drinks",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 25.5,
+      "discount_percentage": 10.8,
+      "current_price": 22.75
+    },
+    "availability": "in_stock",
+    "description": "Sprite Lemon Flavoured Soft Drink -950Ml",
+    "tags": [
+      "soft drink",
+      "lemon"
+    ]
+  },
+  {
+    "product_id": "21452",
+    "name": "Fanta Orange Soft Drink Bottle -950Ml",
+    "brand": "Fanta",
+    "category": "Drinks",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 25.5,
+      "discount_percentage": 10.8,
+      "current_price": 22.75
+    },
+    "availability": "in_stock",
+    "description": "Fanta Orange Soft Drink Bottle -950Ml",
+    "tags": [
+      "soft drink",
+      "orange"
+    ]
+  },
+  {
+    "product_id": "21488",
+    "name": "Coca Cola Zero Bottle",
+    "brand": "Coca Cola",
+    "category": "Beverages",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 25.5,
+      "discount_percentage": 10.8,
+      "current_price": 22.75
+    },
+    "availability": "in_stock",
+    "description": "Bottle - 950Ml",
+    "tags": [
+      "Coca Cola",
+      "Zero",
+      "Bottle"
+    ]
+  },
+  {
+    "product_id": "21489",
+    "name": "Coca Cola Zero Can",
+    "brand": "Coca Cola",
+    "category": "Beverages",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 320,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 8.8,
+      "current_price": 15.5
+    },
+    "availability": "in_stock",
+    "description": "Can - 320Ml",
+    "tags": [
+      "Coca Cola",
+      "Zero",
+      "Can"
+    ]
+  },
+  {
+    "product_id": "21491",
+    "name": "Sprite Zero Can",
+    "brand": "Sprite",
+    "category": "Beverages",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 320,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 8.8,
+      "current_price": 15.5
+    },
+    "availability": "in_stock",
+    "description": "Can",
+    "tags": [
+      "Sprite",
+      "Zero",
+      "Can"
+    ]
+  },
+  {
+    "product_id": "21507",
+    "name": "Schweppes Malt Pineapple Soda",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 300,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 7.3,
+      "current_price": 15.75
+    },
+    "availability": "in_stock",
+    "description": "Soda - 300Ml",
+    "tags": [
+      "Schweppes",
+      "Malt",
+      "Pineapple",
+      "Soda"
+    ]
+  },
+  {
+    "product_id": "21543",
+    "name": "Schweppes Malt Peach Soda Can",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 300,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 7.3,
+      "current_price": 15.75
+    },
+    "availability": "in_stock",
+    "description": "Soda Can",
+    "tags": [
+      "Schweppes",
+      "Malt",
+      "Peach",
+      "Soda",
+      "Can"
+    ]
+  },
+  {
+    "product_id": "21546",
+    "name": "Schweppes Pomegranate Soda Can",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 300,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 7.3,
+      "current_price": 15.75
+    },
+    "availability": "in_stock",
+    "description": "Soda Can",
+    "tags": [
+      "Schweppes",
+      "Pomegranate",
+      "Soda",
+      "Can"
+    ]
+  },
+  {
+    "product_id": "21562",
+    "name": "Schweppes Pomegranate Soda",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 29.99,
+      "discount_percentage": 6.7,
+      "current_price": 27.99
+    },
+    "availability": "in_stock",
+    "description": "Soda - 950 Ml",
+    "tags": [
+      "Schweppes",
+      "Pomegranate",
+      "Soda"
+    ]
+  },
+  {
+    "product_id": "21574",
+    "name": "Schweppes Gold Malt Pineapple Soda",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 29.99,
+      "discount_percentage": 6.7,
+      "current_price": 27.99
+    },
+    "availability": "in_stock",
+    "description": "Soda",
+    "tags": [
+      "Schweppes",
+      "Gold",
+      "Malt",
+      "Pineapple",
+      "Soda"
+    ]
+  },
+  {
+    "product_id": "21578",
+    "name": "Schweppes Lemon Mint Soda",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 29.99,
+      "discount_percentage": 6.7,
+      "current_price": 27.99
+    },
+    "availability": "in_stock",
+    "description": "Soda - 950 Ml",
+    "tags": [
+      "Schweppes",
+      "Lemon",
+      "Mint",
+      "Soda"
+    ]
+  },
+  {
+    "product_id": "21580",
+    "name": "Schweppes Lemon Mint Soda Can",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 300,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 16.99,
+      "discount_percentage": 7.3,
+      "current_price": 15.75
+    },
+    "availability": "in_stock",
+    "description": "Soda Can",
+    "tags": [
+      "Schweppes",
+      "Lemon",
+      "Mint",
+      "Soda",
+      "Can"
+    ]
+  },
+  {
+    "product_id": "21583",
+    "name": "Schweppes Tangerine Soda",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 29.99,
+      "discount_percentage": 6.7,
+      "current_price": 27.99
+    },
+    "availability": "in_stock",
+    "description": "Soda - 950 Ml",
+    "tags": [
+      "Schweppes",
+      "Tangerine",
+      "Soda"
+    ]
+  },
+  {
+    "product_id": "21592",
+    "name": "Coca Cola Bottle",
+    "brand": "Coca Cola",
+    "category": "Beverages",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 330,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 20.99,
+      "discount_percentage": 12.1,
+      "current_price": 18.45
+    },
+    "availability": "in_stock",
+    "description": "Bottle",
+    "tags": [
+      "Coca Cola",
+      "Bottle"
+    ]
+  },
+  {
+    "product_id": "21593",
+    "name": "Fanta Orange Bottle",
+    "brand": "Fanta",
+    "category": "Beverages",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 330,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 20.99,
+      "discount_percentage": 12.1,
+      "current_price": 18.45
+    },
+    "availability": "in_stock",
+    "description": "Bottle",
+    "tags": [
+      "Fanta",
+      "Orange",
+      "Bottle"
+    ]
+  },
+  {
+    "product_id": "21594",
+    "name": "Coca Cola Zero Bottle",
+    "brand": "Coca Cola",
+    "category": "Beverages",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 330,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 20.99,
+      "discount_percentage": 12.1,
+      "current_price": 18.45
+    },
+    "availability": "in_stock",
+    "description": "Bottle",
+    "tags": [
+      "Coca Cola",
+      "Zero",
+      "Bottle"
+    ]
+  },
+  {
+    "product_id": "21595",
+    "name": "Sprite Lemon Bottle",
+    "brand": "Sprite",
+    "category": "Beverages",
+    "product_type": "Soft Drink",
+    "size": {
+      "value": 330,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 20.99,
+      "discount_percentage": 12.1,
+      "current_price": 18.45
+    },
+    "availability": "in_stock",
+    "description": "Bottle",
+    "tags": [
+      "Sprite",
+      "Lemon",
+      "Bottle"
+    ]
+  },
+  {
+    "product_id": "21630",
+    "name": "Schweppes Malt Peach Soda",
+    "brand": "Schweppes",
+    "category": "Beverages",
+    "product_type": "Soda",
+    "size": {
+      "value": 950,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 29.99,
+      "discount_percentage": 6.7,
+      "current_price": 27.99
+    },
+    "availability": "in_stock",
+    "description": "Soda - 950 Ml",
+    "tags": [
+      "Schweppes",
+      "Malt",
+      "Peach",
+      "Soda"
+    ]
+  },
+  {
+    "product_id": "22080",
+    "name": "Juhayna Classic Pineapple Juice",
+    "brand": "Juhayna",
+    "category": "Juices",
+    "product_type": "Juice",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 44.99,
+      "discount_percentage": 22.2,
+      "current_price": 34.99
+    },
+    "availability": "in_stock",
+    "description": "Juice",
+    "tags": [
+      "Juhayna",
+      "Classic",
+      "Pineapple",
+      "Juice"
+    ]
+  },
+  {
+    "product_id": "22081",
+    "name": "Juhayna Classics Premium Apple Juice",
+    "brand": "Juhayna",
+    "category": "Juices",
+    "product_type": "Juice",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 42.5,
+      "discount_percentage": 20,
+      "current_price": 33.99
+    },
+    "availability": "in_stock",
+    "description": "Juice",
+    "tags": [
+      "Juhayna",
+      "Classics",
+      "Premium",
+      "Apple",
+      "Juice"
+    ]
+  },
+  {
+    "product_id": "22082",
+    "name": "Juhayna Classics Premium Cocktail",
+    "brand": "Juhayna",
+    "category": "Juices",
+    "product_type": "Drink",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 42.5,
+      "discount_percentage": 20,
+      "current_price": 33.99
+    },
+    "availability": "in_stock",
+    "description": "Drink",
+    "tags": [
+      "Juhayna",
+      "Classics",
+      "Premium",
+      "Cocktail"
+    ]
+  },
+  {
+    "product_id": "22083",
+    "name": "Juhayna Classics Premium Mango Juice",
+    "brand": "Juhayna",
+    "category": "Juices",
+    "product_type": "Juice",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 44.5,
+      "discount_percentage": 21.4,
+      "current_price": 34.99
+    },
+    "availability": "in_stock",
+    "description": "Juice",
+    "tags": [
+      "Juhayna",
+      "Classics",
+      "Premium",
+      "Mango",
+      "Juice"
+    ]
+  },
+  {
+    "product_id": "22084",
+    "name": "Juhayna Classics Premium Orange Juice-1L",
+    "brand": "Juhayna",
+    "category": "Beverages",
+    "product_type": "Juice",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 42.5,
+      "discount_percentage": 20.0,
+      "current_price": 33.99
+    },
+    "availability": "in_stock",
+    "description": "Juhayna Classics Premium Orange Juice-1L",
+    "tags": [
+      "orange",
+      "juice",
+      "1L"
+    ]
+  },
+  {
+    "product_id": "22085",
+    "name": "Juhayna Classics Premium Guava Juice -1L",
+    "brand": "Juhayna",
+    "category": "Beverages",
+    "product_type": "Juice",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 42.5,
+      "discount_percentage": 20.0,
+      "current_price": 33.99
+    },
+    "availability": "in_stock",
+    "description": "Juhayna Classics Premium Guava Juice -1L",
+    "tags": [
+      "guava",
+      "juice",
+      "1L"
+    ]
+  },
+  {
+    "product_id": "25804",
+    "name": "جهينه حليب كامل الدسم 1 لتر",
+    "brand": "Juhayna",
+    "category": "Dairy",
+    "product_type": "Milk",
+    "size": {
+      "value": null,
+      "unit": "L"
+    },
+    "price": {
+      "original_price": 52.75,
+      "discount_percentage": 14.7,
+      "current_price": 44.99
+    },
+    "availability": "in_stock",
+    "description": "Juhayna Full Cream Milk - 1Kg",
+    "tags": [
+      "milk",
+      "1L"
+    ]
+  },
+  {
+    "product_id": "11760",
+    "name": "كريستال منظف زجاج 700+غيار عرض خاص",
+    "brand": "Crystal",
+    "category": "Household",
+    "product_type": "Glass Cleaner",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 79.95,
+      "discount_percentage": 16.3,
+      "current_price": 66.95
+    },
+    "availability": "in_stock",
+    "description": "Crystal Glass Cleaner Spray700+Refil S.O",
+    "tags": [
+      "glass cleaner",
+      "spray"
+    ]
+  },
+  {
+    "product_id": "20039",
+    "name": "كامى صابون 165 جم4 قطعه",
+    "brand": "Camay",
+    "category": "Personal Care",
+    "product_type": "Soap",
+    "size": {
+      "value": 165,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 104.95,
+      "discount_percentage": 9.5,
+      "current_price": 94.95
+    },
+    "availability": "in_stock",
+    "description": "Camay Soap Bar - 165g*4Pc",
+    "tags": [
+      "soap",
+      "165g"
+    ]
+  },
+  {
+    "product_id": "20090",
+    "name": "لوكس صابون165 جرام 4ق عرض خاص",
+    "brand": "Lux",
+    "category": "Personal Care",
+    "product_type": "Soap",
+    "size": {
+      "value": 165,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 114.95,
+      "discount_percentage": 13.0,
+      "current_price": 99.95
+    },
+    "availability": "in_stock",
+    "description": "Lux Soap Bar Creamy Perfection - 165*4Pc",
+    "tags": [
+      "soap",
+      "165g"
+    ]
+  },
+  {
+    "product_id": "43172",
+    "name": "لايفبوي صابون75-جم3+1 هديه",
+    "brand": "Lifebuoy",
+    "category": "Personal Care",
+    "product_type": "Soap",
+    "size": {
+      "value": 75,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 62.95,
+      "discount_percentage": 12.7,
+      "current_price": 54.95
+    },
+    "availability": "in_stock",
+    "description": "Lifebuoy Soap Bar 75g*4Pc",
+    "tags": [
+      "soap",
+      "75g"
+    ]
+  },
+  {
+    "product_id": "30097",
+    "name": "فيري اقراص بلاتينيوم بلس غسالات اطباق لي",
+    "brand": "Fairy",
+    "category": "Household",
+    "product_type": "Dishwasher Tablets",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 289.95,
+      "discount_percentage": 17.2,
+      "current_price": 239.95
+    },
+    "availability": "in_stock",
+    "description": "Fairy Adw Plat-Plus Yellow - 20ct",
+    "tags": [
+      "dishwasher tablets",
+      "20ct"
+    ]
+  },
+  {
+    "product_id": "4367",
+    "name": "Trata Greek Smoked Tuna Veg Oil-160g",
+    "brand": "Trata",
+    "category": "Seafood",
+    "product_type": "Tuna",
+    "size": {
+      "value": 160,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 117.0,
+      "discount_percentage": 0.0,
+      "current_price": 117.0
+    },
+    "availability": "in_stock",
+    "description": "The Trata Smoked Tuna in Vegetable Oil is a perfect way to enhance the flavor, taste and nutritional value of your everyday meals.",
+    "tags": [
+      "tuna",
+      "160g"
+    ]
+  },
+  {
+    "product_id": "4368",
+    "name": "Trata Smoked Tuna in Lemon Oregano-160g",
+    "brand": "Trata",
+    "category": "Seafood",
+    "product_type": "Tuna",
+    "size": {
+      "value": 160,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 117.0,
+      "discount_percentage": 0.0,
+      "current_price": 117.0
+    },
+    "availability": "in_stock",
+    "description": "Treat your seafood cravings with the Trata Tuna in Lemon & Oregano.",
+    "tags": [
+      "tuna",
+      "160g"
+    ]
+  },
+  {
+    "product_id": "23668",
+    "name": "Trata Greek Mexicana Tuna Salad - 160g",
+    "brand": "Trata",
+    "category": "Seafood",
+    "product_type": "Tuna Salad",
+    "size": {
+      "value": 160,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 98.0,
+      "discount_percentage": 0.0,
+      "current_price": 98.0
+    },
+    "availability": "in_stock",
+    "description": "The Trata Tuna in Mexicana Salad is sourced with care to ensure consistent quality and a rich taste.",
+    "tags": [
+      "tuna salad",
+      "160g"
+    ]
+  },
+  {
+    "product_id": "23669",
+    "name": "Trata Greek Tuna Salad with Corn - 160g",
+    "brand": "Trata",
+    "category": "Seafood",
+    "product_type": "Tuna Salad",
+    "size": {
+      "value": 160,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 98.0,
+      "discount_percentage": 0.0,
+      "current_price": 98.0
+    },
+    "availability": "in_stock",
+    "description": "The Trata Tuna in Corn Salad is a perfect dish to relish on this spring season.",
+    "tags": [
+      "tuna salad",
+      "160g"
+    ]
+  },
+  {
+    "product_id": "23671",
+    "name": "Trata Tuna Salad Greek Smoked Quinoa160g",
+    "brand": "Trata",
+    "category": "Seafood",
+    "product_type": "Tuna Salad",
+    "size": {
+      "value": 160,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 98.0,
+      "discount_percentage": 0.0,
+      "current_price": 98.0
+    },
+    "availability": "in_stock",
+    "description": "The Trata Smoked Tuna Salad in Quinoa is a healthy food choice that goes uncompromised on taste.",
+    "tags": [
+      "tuna salad",
+      "160g"
+    ]
+  },
+  {
+    "product_id": "32797",
+    "name": "Trata Greek Smoked Tuna With Beans-160g",
+    "brand": "Trata",
+    "category": "Seafood",
+    "product_type": "Tuna",
+    "size": {
+      "value": 160,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 98.0,
+      "discount_percentage": 0.0,
+      "current_price": 98.0
+    },
+    "availability": "in_stock",
+    "description": "Trata Greek Smoked Tuna With Beans-160g",
+    "tags": [
+      "tuna",
+      "160g"
+    ]
+  },
+  {
+    "product_id": "33662",
+    "name": "St.Michel French Mini Cakes Chip-75g",
+    "brand": "St.Michel",
+    "category": "Bakery",
+    "product_type": "Mini Cakes",
+    "size": {
+      "value": 75,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 89.99,
+      "discount_percentage": 0.0,
+      "current_price": 89.99
+    },
+    "availability": "in_stock",
+    "description": "St.Michel French Mini Cakes Chip-75g",
+    "tags": [
+      "mini cakes",
+      "75g"
+    ]
+  },
+  {
+    "product_id": "33663",
+    "name": "St.Michel French Mini Sponge Cakes-175g",
+    "brand": "St.Michel",
+    "category": "Bakery",
+    "product_type": "Mini Cakes",
+    "size": {
+      "value": 175,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 162.7,
+      "discount_percentage": 0.0,
+      "current_price": 162.7
+    },
+    "availability": "in_stock",
+    "description": "St.Michel French Mini Sponge Cakes-175g",
+    "tags": [
+      "mini cakes",
+      "175g"
+    ]
+  },
+  {
+    "product_id": "33664",
+    "name": "St.Michel French Mini Cakes Chip-175g",
+    "brand": "St.Michel",
+    "category": "Bakery",
+    "product_type": "Mini Cakes",
+    "size": {
+      "value": 175,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 165.99,
+      "discount_percentage": 0.0,
+      "current_price": 165.99
+    },
+    "availability": "in_stock",
+    "description": "St.Michel French Mini Cakes Chip-175g",
+    "tags": [
+      "mini cakes",
+      "175g"
+    ]
+  },
+  {
+    "product_id": "40871",
+    "name": "Philadelphia Original Cheese-180g",
+    "brand": "Philadelphia",
+    "category": "Dairy",
+    "product_type": "Cheese",
+    "size": {
+      "value": 180,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 251.99,
+      "discount_percentage": 0.0,
+      "current_price": 251.99
+    },
+    "availability": "in_stock",
+    "description": "1",
+    "tags": [
+      "cheese",
+      "180g"
+    ]
+  },
+  {
+    "product_id": "1635",
+    "name": "Juhayna Whipping Cream - 0.5L",
+    "brand": "Juhayna",
+    "category": "Dairy",
+    "product_type": "Whipping Cream",
+    "size": {
+      "value": null,
+      "unit": "L"
+    },
+    "price": {
+      "original_price": 146.99,
+      "discount_percentage": 0.0,
+      "current_price": 146.99
+    },
+    "availability": "in_stock",
+    "description": "Add a finishing touch of flavor to every desert with the Juhayna Whipping Cream.",
+    "tags": [
+      "whipping cream",
+      "0.5L"
+    ]
+  },
+  {
+    "product_id": "1649",
+    "name": "Juhayna Whipping Cream - 1L",
+    "brand": "Juhayna",
+    "category": "Dairy",
+    "product_type": "Whipping Cream",
+    "size": {
+      "value": null,
+      "unit": "L"
+    },
+    "price": {
+      "original_price": 269.99,
+      "discount_percentage": 0.0,
+      "current_price": 269.99
+    },
+    "availability": "in_stock",
+    "description": "Add a finishing touch of flavor to every desert with the Juhayna Whipping Cream.",
+    "tags": [
+      "whipping cream",
+      "1L"
+    ]
+  },
+  {
+    "product_id": "1668",
+    "name": "Labanita Skimmed Milk",
+    "brand": "Labanita",
+    "category": "Dairy",
+    "product_type": "Milk",
+    "size": {
+      "value": 850,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 54.99,
+      "discount_percentage": 0,
+      "current_price": 54.99
+    },
+    "availability": "in_stock",
+    "description": "Seize the day on a healthy note with the Labanita Skimmed Milk. It contains a host of healthy nutrients that help in strengthening your muscles and bones. Made with a low fat content, it is ideal for those pursuing portion-control and weight-loss diets. It is suitable for preparing low-fat yoghurts.",
+    "tags": [
+      "skimmed",
+      "milk",
+      "labanita"
+    ]
+  },
+  {
+    "product_id": "1721",
+    "name": "Bekhero Full Cream Milk",
+    "brand": "Bekhero",
+    "category": "Dairy",
+    "product_type": "Milk",
+    "size": {
+      "value": 500,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 25.99,
+      "discount_percentage": 0,
+      "current_price": 25.99
+    },
+    "availability": "in_stock",
+    "description": "Enjoy the thick and creamy texture of the Bekhero Full Cream Milk. An excellent source of calcium and protein, it helps in strengthening your bones and muscles. Its thick texture helps to prepare thick, creamy and delicious curds. The full-cream milk makes for an excellent addition to balanced and healthy diets.",
+    "tags": [
+      "full",
+      "cream",
+      "milk",
+      "bekhero"
+    ]
+  },
+  {
+    "product_id": "1792",
+    "name": "Juhayna Cooking Cream",
+    "brand": "Juhayna",
+    "category": "Dairy",
+    "product_type": "Cream",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 269.99,
+      "discount_percentage": 0,
+      "current_price": 269.99
+    },
+    "availability": "in_stock",
+    "description": "Add a velvety texture and finish to every gravy or sauce with the Juhayna Cooking Cream. It features a thick texture that helps add volume and body to various foods and desserts. The cream's soothing taste helps normalize spicy flavors. It ranks high in nutrients and vitamins to give your optimal nourishment.",
+    "tags": [
+      "cooking",
+      "cream",
+      "juhayna"
+    ]
+  },
+  {
+    "product_id": "1793",
+    "name": "Juhayna Cooking Cream",
+    "brand": "Juhayna",
+    "category": "Dairy",
+    "product_type": "Cream",
+    "size": {
+      "value": 500,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 146.99,
+      "discount_percentage": 0,
+      "current_price": 146.99
+    },
+    "availability": "in_stock",
+    "description": "Add a velvety texture and finish to every gravy or sauce with the Juhayna Cooking Cream. It features a thick texture that helps add volume and body to various foods and desserts. The cream's soothing taste helps normalize spicy flavors. It ranks high in nutrients and vitamins to give your optimal nourishment.",
+    "tags": [
+      "cooking",
+      "cream",
+      "juhayna"
+    ]
+  },
+  {
+    "product_id": "1794",
+    "name": "Juhayna Cooking Cream",
+    "brand": "Juhayna",
+    "category": "Dairy",
+    "product_type": "Cream",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 64.99,
+      "discount_percentage": 0,
+      "current_price": 64.99
+    },
+    "availability": "in_stock",
+    "description": "Add a velvety texture and finish to every gravy or sauce with the Juhayna Cooking Cream. It features a thick texture that helps add volume and body to various foods and desserts. The cream's soothing taste helps normalize spicy flavors. It ranks high in nutrients and vitamins to give your optimal nourishment.",
+    "tags": [
+      "cooking",
+      "cream",
+      "juhayna"
+    ]
+  },
+  {
+    "product_id": "1795",
+    "name": "Bekhero Full Cream Milk",
+    "brand": "Bekhero",
+    "category": "Dairy",
+    "product_type": "Milk",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 41.5,
+      "discount_percentage": 0,
+      "current_price": 41.5
+    },
+    "availability": "in_stock",
+    "description": "Enjoy the thick and creamy texture of the Bekhero Full Cream Milk. An excellent source of calcium and protein, it helps in strengthening your bones and muscles. Its thick texture helps to prepare thick, creamy and delicious curds. The full-cream milk makes for an excellent addition to balanced and healthy diets.",
+    "tags": [
+      "full",
+      "cream",
+      "milk",
+      "bekhero"
+    ]
+  },
+  {
+    "product_id": "1935",
+    "name": "Juhayna Whipping Cream",
+    "brand": "Juhayna",
+    "category": "Dairy",
+    "product_type": "Cream",
+    "size": {
+      "value": 200,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 64.99,
+      "discount_percentage": 0,
+      "current_price": 64.99
+    },
+    "availability": "in_stock",
+    "description": "Garnish your confectionaries by topping it with the Juhayna Whipping Cream in different patterns. Its thick, creamy texture adds a luxurious tone to the freshly baked products. The cream is enriched in all the major energy components, including proteins, carbohydrates and fats for keeping the body healthy. Additionally, it contains some of the essential vitamins and calcium that serve as nutritional supplements.",
+    "tags": [
+      "whipping",
+      "cream",
+      "juhayna"
+    ]
+  },
+  {
+    "product_id": "1936",
+    "name": "Labanita Milk Full Cream",
+    "brand": "Labanita",
+    "category": "Dairy",
+    "product_type": "Milk",
+    "size": {
+      "value": 850,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 54.99,
+      "discount_percentage": 0,
+      "current_price": 54.99
+    },
+    "availability": "in_stock",
+    "description": "Satisfy your sudden hunger pangs with the Labanita Full Cream Milk. The milk is ideal for making a variety of dishes and you can also consume it directly. It is a rich source of calcium, vitamins D, A, B1, phosphorous and riboflavin that balances our nutrition quotient. With the airtight and handy design, the milk is easy and convenient to carry.",
+    "tags": [
+      "full",
+      "cream",
+      "milk",
+      "labanita"
+    ]
+  },
+  {
+    "product_id": "2051",
+    "name": "Almarai Whipping Cream",
+    "brand": "Almarai",
+    "category": "Dairy",
+    "product_type": "Cream",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 280.99,
+      "discount_percentage": 0,
+      "current_price": 280.99
+    },
+    "availability": "in_stock",
+    "description": "Add richness to a wide variety of cuisines with the Almarai Whipping Cream. You can use it for baked goods like cakes, pastries and pies. This whipping cream can also be used to enhance the flavor of the soup or make homemade butter. It's versatile for mixing with chocolate and many other ingredients like coffee, sauce and frostings.",
+    "tags": [
+      "whipping",
+      "cream",
+      "almarai"
+    ]
+  },
+  {
+    "product_id": "2052",
+    "name": "Almarai Cooking Cream",
+    "brand": "Almarai",
+    "category": "Dairy",
+    "product_type": "Cream",
+    "size": {
+      "value": 1000,
+      "unit": "ml"
+    },
+    "price": {
+      "original_price": 280.99,
+      "discount_percentage": 0,
+      "current_price": 280.99
+    },
+    "availability": "in_stock",
+    "description": "Provide a creamy touch to your favorite delicacy with the Almarai Cooking Cream. It can be used to give consistency to the gravies and curries. You can use this cooking cream for preparing a variety of dishes like soups, casseroles and sauces. This cooking cream is a rich source of vitamin D3 that helps in having healthy bones.",
+    "tags": [
+      "cooking",
+      "cream",
+      "almarai"
+    ]
+  },
+  {
+    "product_id": "22896",
+    "name": "Rich Bake Bread Crumbs",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Bread Crumbs",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 23.99,
+      "discount_percentage": 0,
+      "current_price": 23.99
+    },
+    "availability": "in_stock",
+    "description": "The Rich Bake Bread Crumbs holds all your stuff together to help you get that perfect crunchy snack. These breadcrumbs can be used for stuffing the poultry, thickening the sews, topping the casseroles and much more. The Rich Bake breadcrumbs help you get that perfect crunchiness in your fried and baked foods.",
+    "tags": [
+      "bread",
+      "crumbs",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22897",
+    "name": "El Nile Baladi Bread",
+    "brand": "Wadi El Nile",
+    "category": "Bakery",
+    "product_type": "Bread",
+    "size": {
+      "value": 300,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 19.99,
+      "discount_percentage": 0,
+      "current_price": 19.99
+    },
+    "availability": "in_stock",
+    "description": "The Wadi El Nile Baladi Bread is a healthy ideal addition to your breakfast. It has a well-balanced sweet and salty taste that is perfect for making delicious sandwiches, toasts, grilled cheese and more. Along with its taste, this Wadi El Nile is also a rich source of high fiber, vitamin, and minerals that is essential for a healthy lifestyle.",
+    "tags": [
+      "baladi",
+      "bread",
+      "wadi",
+      "el",
+      "nile"
+    ]
+  },
+  {
+    "product_id": "22906",
+    "name": "Rich Bake Milk Toast",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Toast",
+    "size": {
+      "value": 500,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 55.99,
+      "discount_percentage": 0,
+      "current_price": 55.99
+    },
+    "availability": "in_stock",
+    "description": "The Rich Bake Milk Toast has a delectable flavor that takes your breakfast to another level. This toast can be served toppings and spreads of different flavors. The distinctive taste of this Rich Bake milk toast is sure to suit people with different palates. It is also a good source of calcium and minerals that are essential to maintain a healthy lifestyle.",
+    "tags": [
+      "milk",
+      "toast",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22907",
+    "name": "Rich Bake Whole Wheat Toast",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Toast",
+    "size": {
+      "value": 500,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 55.99,
+      "discount_percentage": 0,
+      "current_price": 55.99
+    },
+    "availability": "in_stock",
+    "description": "Make your morning more wholesome by adding the Rich Bake Whole Wheat Toast to your breakfast. It is an excellent source of iron, thiamine, niacin, calcium and vitamin B6, which are essential for maintaining a healthy lifestyle. This Rich Bake toast has a distinctive taste that elevates the overall flavor of the spread it is served with.",
+    "tags": [
+      "whole",
+      "wheat",
+      "toast",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22908",
+    "name": "Rich Bake Plain Toast",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Toast",
+    "size": {
+      "value": 500,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 55.99,
+      "discount_percentage": 0,
+      "current_price": 55.99
+    },
+    "availability": "in_stock",
+    "description": "The Rich Bake Plain Toast has a well-balanced taste and is the perfect base for various kinds of spreads and toppings. This toast has multiple proteins and minerals essential for your body. The scrumptious taste of this Rich Bake plain toast elevates the overall flavor of the spread or topping.",
+    "tags": [
+      "plain",
+      "toast",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22909",
+    "name": "Rich Bake Petit Pan 6Pc",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Pastry",
+    "size": {
+      "value": 6,
+      "unit": "pc"
+    },
+    "price": {
+      "original_price": 28.99,
+      "discount_percentage": 0,
+      "current_price": 28.99
+    },
+    "availability": "in_stock",
+    "description": "The Rich Bake Petite Pain is perfect for making finger foods. It has a mild flavor that elevates the overall taste of your snack. The small size of these petite pain allows you to make more quantity and create a beautiful platter while serving. It is a rich source of vitamins and proteins that keep you full for a longer period.",
+    "tags": [
+      "petite",
+      "pain",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22910",
+    "name": "Rich Bake Sesame Hamburger Bun",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Bun",
+    "size": {
+      "value": 60,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 24.99,
+      "discount_percentage": 0,
+      "current_price": 24.99
+    },
+    "availability": "in_stock",
+    "description": "The Rich Bake Sesame Hamburger Bun is made using the best quality ingredients to deliver you with a dash of deliciousness and freshness. It is an excellent source of various proteins and minerals, making it an ideal addition to your breakfast. The mild flavor of this Rich Bake bun elevates the overall taste of your sandwich or toast.",
+    "tags": [
+      "sesame",
+      "hamburger",
+      "bun",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22911",
+    "name": "Rich Bake Breadcrumbs",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Bread Crumbs",
+    "size": {
+      "value": 200,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 12.99,
+      "discount_percentage": 0,
+      "current_price": 12.99
+    },
+    "availability": "in_stock",
+    "description": "Rich Bake Breadcrumbs - 200 g",
+    "tags": [
+      "bread",
+      "crumbs",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22918",
+    "name": "Rich Bake Black Seeds Toast",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Toast",
+    "size": {
+      "value": 170,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 50.0,
+      "discount_percentage": 0,
+      "current_price": 50.0
+    },
+    "availability": "in_stock",
+    "description": "Make your breakfast more delightful and healthy by adding the Rich Bake Black Seeds Toast. The black seeds have a variety of health benefits like treating digestive conditions, congestion, allergies, cough and more. This Rich Bake toast tastes better with various spreads and toppings. Its distinctive taste encourages you to lead a healthy life without compromising the taste.",
+    "tags": [
+      "black",
+      "seeds",
+      "toast",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22919",
+    "name": "Rich Bake Plain Crunchy Toast",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Toast",
+    "size": {
+      "value": 170,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 50.0,
+      "discount_percentage": 0,
+      "current_price": 50.0
+    },
+    "availability": "in_stock",
+    "description": "Start your mornings with a dash of crunchiness with the Rich Bake Plain Toast. The well-balanced taste of this toast goes well with most spreads and toppings, making it an ideal addition to your breakfast table. This Rich Bake toast provides you with the perfect crunch to give a fulfilled experience. It has the goodness of various vitamins and proteins to promote a healthy lifestyle.",
+    "tags": [
+      "plain",
+      "crunchy",
+      "toast",
+      "rich",
+      "bake"
+    ]
+  },
+  {
+    "product_id": "22920",
+    "name": "Rich Bake Cumin Crunchy Toast - 170g",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Crunchy Toast",
+    "price": {
+      "original_price": 50.0,
+      "discount_percentage": 0.0,
+      "current_price": 50.0
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "The Rich Bake Cumin Crunchy Toast gives a piquant twist to your regular breakfast. The cumin seeds are a rich source of iron and various plant-based compounds that promote healthy digestion and help with various other ailments. This Rich Bake toast can be served with multiple savory spreads and toppings.",
+    "tags": [
+      "Crunchy Toast",
+      "Bakery",
+      "Cumin",
+      "Toast"
+    ]
+  },
+  {
+    "product_id": "22921",
+    "name": "Rich Bake Baladi Bread - 5Pc",
+    "brand": "Rich Bake",
+    "category": "Bakery",
+    "product_type": "Baladi Bread",
+    "price": {
+      "original_price": 15.99,
+      "discount_percentage": 0.0,
+      "current_price": 15.99
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Make your breakfast even more delectable and healthy with the Rich Bake Baladi Bread. The main ingredient of Baladi bread wheat that is an excellent source of high fiber, vitamins and minerals that has various health benefits. This Rich Bake bread has a perfect balance of sweet and salty flavor that elevates the overall taste of your food.",
+    "tags": [
+      "Baladi Bread",
+      "Bakery",
+      "Breakfast"
+    ]
+  },
+  {
+    "product_id": "8270",
+    "name": "Loacker Vanilla Wafer - 45g",
+    "brand": "Loacker",
+    "category": "Snacks",
+    "product_type": "Vanilla Wafer",
+    "price": {
+      "original_price": 57.5,
+      "discount_percentage": 0.0,
+      "current_price": 57.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Get the best of taste and flavor with the Loacker Vanilla Wafers. They have a delicious taste and is sure to please your palate. Featuring various vitamins, they keep you well-nourished. You can consume these snacks with tea or coffee.",
+    "tags": [
+      "Vanilla Wafer",
+      "Snacks",
+      "Delicious Taste"
+    ]
+  },
+  {
+    "product_id": "8271",
+    "name": "McVities Digestive Light Biscuit - 250g",
+    "brand": "McVities",
+    "category": "Biscuits",
+    "product_type": "Digestive Light Biscuit",
+    "price": {
+      "original_price": 46.99,
+      "discount_percentage": 0.0,
+      "current_price": 46.99
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "The McVitie's Digestive Light Biscuit is a healthy snack to start your day. It's an ideal snack that you can enjoy with a cup of coffee or tea. You can serve this snack to your guests on occasions like family reunions and get-togethers.",
+    "tags": [
+      "Digestive Light Biscuit",
+      "Biscuits",
+      "Healthy Snack"
+    ]
+  },
+  {
+    "product_id": "8272",
+    "name": "Loacker Quadratini Choc Wafer Cok - 125g",
+    "brand": "Loacker",
+    "category": "Snacks",
+    "product_type": "Quadratini Choc Wafer Cok",
+    "price": {
+      "original_price": 190.5,
+      "discount_percentage": 0.0,
+      "current_price": 190.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Enhance your snacking experience with the Loacker Quadratini Chocolate Wafer Chocolate. This snack is rich in nutrients and vitamins to keep you fit and healthy. It has a classic taste to please your taste buds.",
+    "tags": [
+      "Quadratini Choc Wafer Cok",
+      "Snacks",
+      "Rich in Nutrients"
+    ]
+  },
+  {
+    "product_id": "8273",
+    "name": "Loacker QuadartiniHazelnuts Wafers125g",
+    "brand": "Loacker",
+    "category": "Snacks",
+    "product_type": "QuadartiniHazelnuts Wafers",
+    "price": {
+      "original_price": 190.5,
+      "discount_percentage": 0.0,
+      "current_price": 190.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Enjoy a sweet treat with the Loacker Quadratini Napolitaner Hazelnut Wafer Cookies. They have a sweet and delicious taste to satisfy your belly. They are rich in vitamins and nutrients to keep you healthy. You can consume them with hot chocolate or daily coffee.",
+    "tags": [
+      "QuadartiniHazelnuts Wafers",
+      "Snacks",
+      "Sweet Treat"
+    ]
+  },
+  {
+    "product_id": "8289",
+    "name": "Loacker Milk Bite Size Wafers - 45g",
+    "brand": "Loacker",
+    "category": "Snacks",
+    "product_type": "Milk Bite Size Wafers",
+    "price": {
+      "original_price": 57.5,
+      "discount_percentage": 0.0,
+      "current_price": 57.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Snacking is a pleasurable experience with the Loacker Milk Bite Size Wafers. They have a sweet and delicious taste to satisfy your belly. They are rich in vitamins and nutrients to keep you healthy. You can consume them with hot chocolate or daily coffee.",
+    "tags": [
+      "Milk Bite Size Wafers",
+      "Snacks",
+      "Sweet Taste"
+    ]
+  },
+  {
+    "product_id": "8290",
+    "name": "Loacker Napolitaner Crispy Wafer - 45g",
+    "brand": "Loacker",
+    "category": "Snacks",
+    "product_type": "Napolitaner Crispy Wafer",
+    "price": {
+      "original_price": 57.5,
+      "discount_percentage": 0.0,
+      "current_price": 57.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Treat yourself to a delicious snacking experience with the Loacker Napolitaner Crispy Wafer. They have a delicious taste and is sure to please your palate. Featuring various vitamins, they keep you well-nourished. You can consume these snacks with your daily tea or coffee.",
+    "tags": [
+      "Napolitaner Crispy Wafer",
+      "Snacks",
+      "Delicious Taste"
+    ]
+  },
+  {
+    "product_id": "8291",
+    "name": "McVities Digestive Wheat Biscuits - 400g",
+    "brand": "McVities",
+    "category": "Biscuits",
+    "product_type": "Digestive Wheat Biscuits",
+    "price": {
+      "original_price": 69.99,
+      "discount_percentage": 0.0,
+      "current_price": 69.99
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Bring a big smile to your loved one's face with the McVitie Digestive Wheat Biscuits. Both nutritious and tasty, it is sure to delight you with an abundance of flavor. Whether you're at the office, home, or out shopping, these biscuits are an ideal companion. These biscuits also complement tea, sandwiches, and salads.",
+    "tags": [
+      "Digestive Wheat Biscuits",
+      "Biscuits",
+      "Nutritious"
+    ]
+  },
+  {
+    "product_id": "8292",
+    "name": "McVities Digestive Wheat Biscuits - 250g",
+    "brand": "McVities",
+    "category": "Biscuits",
+    "product_type": "Digestive Wheat Biscuits",
+    "price": {
+      "original_price": 46.99,
+      "discount_percentage": 0.0,
+      "current_price": 46.99
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Bring a big smile to your loved one's face with the McVitie Digestive Wheat Biscuits. Both nutritious and tasty, it is sure to delight you with an abundance of flavor. Whether you're at the office, home, or out shopping, these biscuits are an ideal companion. These biscuits also complement tea, sandwiches, and salads.",
+    "tags": [
+      "Digestive Wheat Biscuits",
+      "Biscuits",
+      "Nutritious"
+    ]
+  },
+  {
+    "product_id": "8298",
+    "name": "Bahlsen Hit Cocoa Creme Biscuits - 220g",
+    "brand": "Bahlsen",
+    "category": "Biscuits",
+    "product_type": "Hit Cocoa Creme Biscuits",
+    "price": {
+      "original_price": 216.5,
+      "discount_percentage": 0.0,
+      "current_price": 216.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Bring a big smile to your loved one's face with the Bahlsen Hit Cocoa Creme Biscuits. Both nutritious and tasty, it is sure to delight you with an abundance of flavor. Whether you're at the office, home, or out shopping, these biscuits are an ideal companion.",
+    "tags": [
+      "Hit Cocoa Creme Biscuits",
+      "Biscuits",
+      "Nutritious"
+    ]
+  },
+  {
+    "product_id": "8301",
+    "name": "Loacker Gardena Chocolate Hazelnuts -38g",
+    "brand": "Loacker",
+    "category": "Snacks",
+    "product_type": "Gardena Chocolate Hazelnuts",
+    "price": {
+      "original_price": 66.5,
+      "discount_percentage": 0.0,
+      "current_price": 66.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "The Loacker Gardena Chocolate and Hazelnut Wafers are a great addition to your daily diet. They feature a classic taste to satisfy your palate. You can consume this snack with any beverage like tea or coffee to enjoy the best food experience.",
+    "tags": [
+      "Gardena Chocolate Hazelnuts",
+      "Snacks",
+      "Classic Taste"
+    ]
+  },
+  {
+    "product_id": "8303",
+    "name": "Loacker Tortina Cookies - 21g",
+    "brand": "Loacker",
+    "category": "Snacks",
+    "product_type": "Tortina Cookies",
+    "price": {
+      "original_price": 59.5,
+      "discount_percentage": 0.0,
+      "current_price": 59.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "The Loacker Tortina Cookies are the perfect addition to your tea snacks. They have a delicious taste to satisfy your palate. The cookies are rich in nutrients to keep you healthy. You can consume these cookies with your daily tea.",
+    "tags": [
+      "Tortina Cookies",
+      "Snacks",
+      "Delicious Taste"
+    ]
+  },
+  {
+    "product_id": "8310",
+    "name": "Loacker Cocoa Cookies - 45g",
+    "brand": "Loacker",
+    "category": "Snacks",
+    "product_type": "Cocoa Cookies",
+    "price": {
+      "original_price": 57.5,
+      "discount_percentage": 0.0,
+      "current_price": 57.5
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "The Loacker Cocoa Cookies are a delicious treat for you. They have a delicious taste to satisfy your palate. The cookies are rich in nutrients to keep you healthy. You can consume these cookies with your daily tea.",
+    "tags": [
+      "Cocoa Cookies",
+      "Snacks",
+      "Delicious Taste"
+    ]
+  },
+  {
+    "product_id": "10983",
+    "name": "Dettol Original Anti-Bacterial Wipes10Pc",
+    "brand": "Dettol",
+    "category": "Personal Care",
+    "product_type": "Original Anti-Bacterial Wipes",
+    "price": {
+      "original_price": 112.95,
+      "discount_percentage": 0.0,
+      "current_price": 112.95
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "The Dettol Original Anti-bacterial Wipes offer germ-free protection for following a clean and hygienic lifestyle. Its anti-bacterial quality helps eradicate infectious germs in a single swipe. The formula has zero alcohol so that the skin’s moisture is retained after being wiped.",
+    "tags": [
+      "Original Anti-Bacterial Wipes",
+      "Personal Care",
+      "Germ-Free Protection"
+    ]
+  },
+  {
+    "product_id": "11004",
+    "name": "Dettol Fresh Skin Wipe -10Pc",
+    "brand": "Dettol",
+    "category": "Personal Care",
+    "product_type": "Fresh Skin Wipe",
+    "price": {
+      "original_price": 112.95,
+      "discount_percentage": 0.0,
+      "current_price": 112.95
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "The Dettol Fresh Skin Wipes offer germ-free protection for your skin. Its anti-bacterial quality helps eradicate infectious germs in a single swipe. The formula has zero alcohol so that the skin’s moisture is retained after being wiped.",
+    "tags": [
+      "Fresh Skin Wipe",
+      "Personal Care",
+      "Germ-Free Protection"
+    ]
+  },
+  {
+    "product_id": "17074",
+    "name": "Pampers Baby Wipes 64Wipes",
+    "brand": "Pampers",
+    "category": "Baby Care",
+    "product_type": "Baby Wipes",
+    "price": {
+      "original_price": 104.95,
+      "discount_percentage": 0.0,
+      "current_price": 104.95
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Pampers Baby Wipes 64Wipes",
+    "tags": [
+      "Baby Wipes",
+      "Baby Care",
+      "Baby Wipes"
+    ]
+  },
+  {
+    "product_id": "17088",
+    "name": "Pampers Baby Wipes Sensitive 56Wipes",
+    "brand": "Pampers",
+    "category": "Baby Care",
+    "product_type": "Baby Wipes Sensitive",
+    "price": {
+      "original_price": 104.95,
+      "discount_percentage": 0.0,
+      "current_price": 104.95
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Pampers Baby Wipes Sensitive 56Wipes",
+    "tags": [
+      "Baby Wipes Sensitive",
+      "Baby Care",
+      "Sensitive Skin"
+    ]
+  },
+  {
+    "product_id": "17106",
+    "name": "Pampers Baby Wipes64P 3+1 Free",
+    "brand": "Pampers",
+    "category": "Baby Care",
+    "product_type": "Baby Wipes64P",
+    "price": {
+      "original_price": 334.95,
+      "discount_percentage": 0.0,
+      "current_price": 334.95
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "Pampers Baby Wipes64P 3+1 Free",
+    "tags": [
+      "Baby Wipes64P",
+      "Baby Care",
+      "Baby Wipes"
+    ]
+  },
+  {
+    "product_id": "36841",
+    "name": "White Baby Wipes -72 Tissues* 2Pc",
+    "brand": "White",
+    "category": "Baby Care",
+    "product_type": "Baby Wipes -72 Tissues* 2Pc",
+    "price": {
+      "original_price": 123.95,
+      "discount_percentage": 0.0,
+      "current_price": 123.95
+    },
+    "size": null,
+    "availability": "in_stock",
+    "description": "White Baby Wipes -72 Tissues* 2Pc",
+    "tags": [
+      "Baby Wipes -72 Tissues* 2Pc",
+      "Baby Care",
+      "Baby Wipes"
+    ]
+  },
+  {
+    "product_id": "37817",
+    "name": "Baby Wipes - 20 Tissues",
+    "brand": "White",
+    "category": "Baby",
+    "product_type": "Wipes",
+    "size": null,
+    "price": {
+      "original_price": 26.45,
+      "discount_percentage": 0,
+      "current_price": 26.45
+    },
+    "availability": "in_stock",
+    "description": "Baby Wipes - 20 Tissues",
+    "tags": [
+      "Baby",
+      "Wipes"
+    ]
+  },
+  {
+    "product_id": "40751",
+    "name": "Water Wipes- 50 Tissues",
+    "brand": "White",
+    "category": "Wipes",
+    "product_type": "Wipes",
+    "size": null,
+    "price": {
+      "original_price": 53.95,
+      "discount_percentage": 0,
+      "current_price": 53.95
+    },
+    "availability": "in_stock",
+    "description": "Water Wipes- 50 Tissues",
+    "tags": [
+      "Wipes"
+    ]
+  },
+  {
+    "product_id": "40752",
+    "name": "White Wipes Wood & Laminate - 48Tissues",
+    "brand": "White",
+    "category": "Wipes",
+    "product_type": "Wipes",
+    "size": null,
+    "price": {
+      "original_price": 81.95,
+      "discount_percentage": 0,
+      "current_price": 81.95
+    },
+    "availability": "in_stock",
+    "description": "White Wipes Wood & Laminate - 48Tissues",
+    "tags": [
+      "Wipes"
+    ]
+  },
+  {
+    "product_id": "42333",
+    "name": "Dettol Wipes Original-10Pc 2+1 Free",
+    "brand": "Dettol",
+    "category": "Wipes",
+    "product_type": "Wipes",
+    "size": null,
+    "price": {
+      "original_price": 209.95,
+      "discount_percentage": 0,
+      "current_price": 209.95
+    },
+    "availability": "in_stock",
+    "description": "Dettol Wipes Original-10Pc 2+1 Free",
+    "tags": [
+      "Dettol",
+      "Wipes"
+    ]
+  },
+  {
+    "product_id": "43791",
+    "name": "White Pocket with Fresh -10Pc",
+    "brand": "White",
+    "category": "Pocket",
+    "product_type": "Wipes",
+    "size": null,
+    "price": {
+      "original_price": 7.95,
+      "discount_percentage": 0,
+      "current_price": 7.95
+    },
+    "availability": "in_stock",
+    "description": "White Pocket with Fresh -10Pc",
+    "tags": [
+      "White",
+      "Pocket",
+      "Wipes"
+    ]
+  },
+  {
+    "product_id": "10933",
+    "name": "Zeina Classic Soft - 100 Tissues",
+    "brand": "Zeina",
+    "category": "Classic",
+    "product_type": "Tissues",
+    "size": null,
+    "price": {
+      "original_price": 14.95,
+      "discount_percentage": 0,
+      "current_price": 14.95
+    },
+    "availability": "in_stock",
+    "description": "Zeina Classic Soft - 100 Tissues",
+    "tags": [
+      "Zeina",
+      "Classic",
+      "Tissues"
+    ]
+  },
+  {
+    "product_id": "44098",
+    "name": "Bader El-Din Kamar El-Din - 400g",
+    "brand": "Pre Pack",
+    "category": "Bader",
+    "product_type": "Kamar El-Din",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 82.99,
+      "discount_percentage": 19.3,
+      "current_price": 66.99
+    },
+    "availability": "in_stock",
+    "description": "Bader El-Din Kamar El-Din - 400g",
+    "tags": [
+      "Pre Pack",
+      "Bader",
+      "Kamar El-Din"
+    ]
+  },
+  {
+    "product_id": "44100",
+    "name": "Badr Elden Mango Kamar El Din- 400g",
+    "brand": "Pre Pack",
+    "category": "Badr",
+    "product_type": "Mango Kamar El Din",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 79.99,
+      "discount_percentage": 20,
+      "current_price": 63.99
+    },
+    "availability": "in_stock",
+    "description": "Badr Elden Mango Kamar El Din- 400g",
+    "tags": [
+      "Pre Pack",
+      "Badr",
+      "Mango Kamar El Din"
+    ]
+  },
+  {
+    "product_id": "44187",
+    "name": "Wafeer Kamar Al Din Extra-400g",
+    "brand": "Pre Pack",
+    "category": "Wafeer",
+    "product_type": "Kamar Al Din Extra",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 92.99,
+      "discount_percentage": 21.5,
+      "current_price": 72.99
+    },
+    "availability": "in_stock",
+    "description": "Wafeer Kamar Al Din Extra-400g",
+    "tags": [
+      "Pre Pack",
+      "Wafeer",
+      "Kamar Al Din Extra"
+    ]
+  },
+  {
+    "product_id": "44102",
+    "name": "Tamarind -300g",
+    "brand": "Pre Pack / Weight",
+    "category": "Tamarind",
+    "product_type": "Tamarind",
+    "size": {
+      "value": 300,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 61.99,
+      "discount_percentage": 21,
+      "current_price": 48.99
+    },
+    "availability": "in_stock",
+    "description": "Tamarind -300g",
+    "tags": [
+      "Pre Pack / Weight",
+      "Tamarind"
+    ]
+  },
+  {
+    "product_id": "44101",
+    "name": "Dried Figs -1Pc",
+    "brand": "Pre Pack / Weight",
+    "category": "Dried",
+    "product_type": "Figs",
+    "size": null,
+    "price": {
+      "original_price": 166.99,
+      "discount_percentage": 22.2,
+      "current_price": 129.99
+    },
+    "availability": "in_stock",
+    "description": "Dried Figs -1Pc",
+    "tags": [
+      "Pre Pack / Weight",
+      "Dried",
+      "Figs"
+    ]
+  },
+  {
+    "product_id": "44105",
+    "name": "Dry Turkish Fig -1Kg",
+    "brand": "Pre Pack / Weight",
+    "category": "Dry",
+    "product_type": "Turkish Fig",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 719.99,
+      "discount_percentage": 30.6,
+      "current_price": 500
+    },
+    "availability": "in_stock",
+    "description": "Dry Turkish Fig -1Kg",
+    "tags": [
+      "Pre Pack / Weight",
+      "Dry",
+      "Turkish Fig"
+    ]
+  },
+  {
+    "product_id": "44103",
+    "name": "Hazelnut Peeled -1Kg",
+    "brand": "Weight",
+    "category": "Hazelnut",
+    "product_type": "Peeled Hazelnut",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 1059.99,
+      "discount_percentage": 0,
+      "current_price": 1059.99
+    },
+    "availability": "in_stock",
+    "description": "Hazelnut Peeled -1Kg",
+    "tags": [
+      "Weight",
+      "Hazelnut",
+      "Peeled Hazelnut"
+    ]
+  },
+  {
+    "product_id": "44104",
+    "name": "Hazelnut Roasted Turkish -1Kg",
+    "brand": "Weight",
+    "category": "Hazelnut",
+    "product_type": "Roasted Turkish Hazelnut",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 1229.99,
+      "discount_percentage": 0,
+      "current_price": 1229.99
+    },
+    "availability": "in_stock",
+    "description": "Hazelnut Roasted Turkish -1Kg",
+    "tags": [
+      "Weight",
+      "Hazelnut",
+      "Roasted Turkish Hazelnut"
+    ]
+  },
+  {
+    "product_id": "44106",
+    "name": "Raisien Golden Irany -1Kg",
+    "brand": "Weight",
+    "category": "Raisien",
+    "product_type": "Golden Raisin",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 297.99,
+      "discount_percentage": 21.1,
+      "current_price": 234.99
+    },
+    "availability": "in_stock",
+    "description": "Raisien Golden Irany -1Kg",
+    "tags": [
+      "Weight",
+      "Raisien",
+      "Golden Raisin"
+    ]
+  },
+  {
+    "product_id": "44190",
+    "name": "Raisin Golden Extra -1Kg",
+    "brand": "Weight",
+    "category": "Raisin",
+    "product_type": "Golden Raisin Extra",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 229.99,
+      "discount_percentage": 21.3,
+      "current_price": 180.99
+    },
+    "availability": "in_stock",
+    "description": "Raisin Golden Extra -1Kg",
+    "tags": [
+      "Weight",
+      "Raisin",
+      "Golden Raisin Extra"
+    ]
+  },
+  {
+    "product_id": "44107",
+    "name": "Walnut Peeled (Ain Camel) -1Kg",
+    "brand": "Weight",
+    "category": "Walnut",
+    "product_type": "Peeled Walnut",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 739.99,
+      "discount_percentage": 0,
+      "current_price": 739.99
+    },
+    "availability": "in_stock",
+    "description": "Walnut Peeled (Ain Camel) -1Kg",
+    "tags": [
+      "Weight",
+      "Walnut",
+      "Peeled Walnut"
+    ]
+  },
+  {
+    "product_id": "44108",
+    "name": "Pistachio Non-Peeled Salted -1Kg",
+    "brand": "Weight",
+    "category": "Pistachio",
+    "product_type": "Non-Peeled Salted Pistachio",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 924.99,
+      "discount_percentage": 0,
+      "current_price": 924.99
+    },
+    "availability": "in_stock",
+    "description": "Pistachio Non-Peeled Salted -1Kg",
+    "tags": [
+      "Weight",
+      "Pistachio",
+      "Non-Peeled Salted Pistachio"
+    ]
+  },
+  {
+    "product_id": "3722",
+    "name": "Metro Plain Fava Beans 400g",
+    "brand": "Metro Private",
+    "category": "Metro",
+    "product_type": "Plain Fava Beans",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 21.75,
+      "discount_percentage": 0,
+      "current_price": 21.75
+    },
+    "availability": "in_stock",
+    "description": "Metro Plain Fava Beans 400g",
+    "tags": [
+      "Metro Private",
+      "Metro",
+      "Plain Fava Beans"
+    ]
+  },
+  {
+    "product_id": "689",
+    "name": "Parsley - 100g",
+    "brand": "Prepacked",
+    "category": "Parsley",
+    "product_type": "Parsley",
+    "size": {
+      "value": 100,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 9.99,
+      "discount_percentage": 0,
+      "current_price": 9.99
+    },
+    "availability": "in_stock",
+    "description": "Parsley - 100g",
+    "tags": [
+      "Prepacked",
+      "Parsley"
+    ]
+  },
+  {
+    "product_id": "691",
+    "name": "Coriander",
+    "brand": "Prepacked",
+    "category": "Herbs",
+    "product_type": "Spice",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 9.99,
+      "discount_percentage": 0,
+      "current_price": 9.99
+    },
+    "availability": "in_stock",
+    "description": "The Prepacked Coriander not only enhances the spice quotient of your food but also provides many health benefits.",
+    "tags": [
+      "herbs",
+      "spice"
+    ]
+  },
+  {
+    "product_id": "7818",
+    "name": "Cumin",
+    "brand": "Metro Private",
+    "category": "Spices",
+    "product_type": "Powder",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 86.99,
+      "discount_percentage": 0,
+      "current_price": 86.99
+    },
+    "availability": "in_stock",
+    "description": "Enhance the taste of your daily food with the Metro Cumin Shaker.",
+    "tags": [
+      "spices",
+      "powder"
+    ]
+  },
+  {
+    "product_id": "26639",
+    "name": "Garlic Paste",
+    "brand": "Metro Private",
+    "category": "Pastes",
+    "product_type": "Condiment",
+    "size": {
+      "value": 200,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 43.99,
+      "discount_percentage": 0,
+      "current_price": 43.99
+    },
+    "availability": "in_stock",
+    "description": "Metro Garlic Paste 200g",
+    "tags": [
+      "pastes",
+      "condiment"
+    ]
+  },
+  {
+    "product_id": "24631",
+    "name": "Chopped Spinach",
+    "brand": "Givrex",
+    "category": "Vegetables",
+    "product_type": "Frozen",
+    "size": {
+      "value": 400,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 24.99,
+      "discount_percentage": 0,
+      "current_price": 24.99
+    },
+    "availability": "in_stock",
+    "description": "The Givrex Chopped Spinach makes cooking more convenient and easy.",
+    "tags": [
+      "vegetables",
+      "frozen"
+    ]
+  },
+  {
+    "product_id": "2",
+    "name": "Peaches",
+    "brand": "Imported",
+    "category": "Fruits",
+    "product_type": "Fresh",
+    "size": {
+      "value": 1000,
+      "unit": "g"
+    },
+    "price": {
+      "original_price": 409.99,
+      "discount_percentage": 0,
+      "current_price": 409.99
+    },
+    "availability": "in_stock",
+    "description": "Imported Peaches-1Kg",
+    "tags": [
+      "fruits",
+      "fresh"
+    ]
+  },
+  {
+    "product_id": "8",
+    "name": "Strawberries",
+    "brand": "Fresh",
+    "category": "Fruits",
+    "product_type": "Fresh",
+    "size": {
+      "value": null,
+      "unit": null
+    },
+    "price": {
+      "original_price": 127.99,
+      "discount_percentage": 0,
+      "current_price": 127.99
+    },
+    "availability": "in_stock",
+    "description": "Fresh Strawberry Pack contains bright red, juicy and sweet strawberries.",
+    "tags": [
+      "fruits",
+      "fresh"
+    ]
+  }
+]
